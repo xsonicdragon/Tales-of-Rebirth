@@ -131,7 +131,7 @@
       <EnglishText>&lt;icon:20&gt;Look</EnglishText>
       <Notes>Action button text</Notes>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -284,8 +284,8 @@ No</EnglishText>
       <PointerOffset>1239</PointerOffset>
       <JapaneseText>おいしい!!
 おいしいヨ!!</JapaneseText>
-      <EnglishText>This is so good!!
-It's so dang tasty!!</EnglishText>
+      <EnglishText>This is so good!
+It's so dang tasty!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -303,7 +303,7 @@ It's so dang tasty!!</EnglishText>
     <Entry>
       <PointerOffset>1312</PointerOffset>
       <JapaneseText>おいしい……</JapaneseText>
-      <EnglishText>Delicious...</EnglishText>
+      <EnglishText>It's delicious...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>

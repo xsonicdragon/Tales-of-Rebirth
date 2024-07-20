@@ -131,7 +131,7 @@
       <EnglishText>&lt;icon:20&gt;Sneak a Bite</EnglishText>
       <Notes>Action button text</Notes>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -163,7 +163,7 @@ come in through the port.</EnglishText>
       <JapaneseText>うちの弟は時々、祭司様の
 お手伝いをさせてもらってるの。</JapaneseText>
       <EnglishText>My younger brother sometimes
-helps out the priest.</EnglishText>
+helps the priest.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -172,7 +172,7 @@ helps out the priest.</EnglishText>
     <Entry>
       <PointerOffset>1682</PointerOffset>
       <JapaneseText>蒼獣様へのご奉仕なのよ。</JapaneseText>
-      <EnglishText>He serves under the Azure Beast.</EnglishText>
+      <EnglishText>He serves the Azure Beast.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -182,13 +182,13 @@ helps out the priest.</EnglishText>
       <PointerOffset>1721</PointerOffset>
       <JapaneseText>……「き」とかなんとか
 言っていたわ。</JapaneseText>
-      <EnglishText>I think he said "laughed"
-or something...</EnglishText>
+      <EnglishText>I think he said something
+like "loved"...</EnglishText>
       <Notes>Halp something about Ki 
 Hey its me Goku</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>1786</PointerOffset>
@@ -221,9 +221,9 @@ you please go away!?</EnglishText>
 よかったんだけどな……
 お魚とか貝とかおいしかったし。
 </JapaneseText>
-      <EnglishText>I always liked being by the
-sea though... The fishies and
-shellfishies were so tasty...</EnglishText>
+      <EnglishText>I would have been okay living
+by the sea... All that seafood
+was delicious...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -235,8 +235,9 @@ shellfishies were so tasty...</EnglishText>
 キノコとか木の実ばっかり！
 マフマフじゃないのに……
 </JapaneseText>
-      <EnglishText>This place is full of berries and
-nuts! I don't like them at all...</EnglishText>
+      <EnglishText>Now that we're back, all
+we have is mushrooms and
+nuts! I'm no muff-muff...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -247,7 +248,7 @@ nuts! I don't like them at all...</EnglishText>
       <JapaneseText>キーキーキーッ!!
 キキキッ！
 </JapaneseText>
-      <EnglishText>Kii- Kii- Ki!!
+      <EnglishText>Kee-kee-keee!!
 Kikiki!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -259,13 +260,13 @@ Kikiki!</EnglishText>
       <JapaneseText>この音、蒼獣様のイビキだって
 弟が言ってるんだけど……
 私は違うと思うな。</JapaneseText>
-      <EnglishText>I told my younger brother that this 
-sound was the Azure Beast snoring, 
-but...I don't think that's the case.</EnglishText>
+      <EnglishText>My younger brother said that
+this sound was the Azure Beast
+snoring, but I don't think so.</EnglishText>
       <Notes>I dont think she has a brother </Notes>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2103</PointerOffset>
@@ -297,30 +298,31 @@ now to offer at the sanctuary.</EnglishText>
 なんだかつまらなそうなの。
 早く青空に戻らないかな……
 </JapaneseText>
-      <EnglishText>The sky has turned into this color
-and my brothers bored... I wonder
-if it'll ever turn back to blue...?</EnglishText>
+      <EnglishText>My little brother is upset because
+the sky has turned this weird
+color... I wonder if it will go
+back to being blue soon...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>18</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2200</PointerOffset>
       <JapaneseText>私の弟は空を見るのが
 好きみたいだけど……</JapaneseText>
-      <EnglishText>It seemed like he likes
-looking at the blue sky...</EnglishText>
+      <EnglishText>My little brother likes looking
+at the blue sky...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2222</PointerOffset>
       <JapaneseText>私は海の方が好き♪
 </JapaneseText>
-      <EnglishText>I like the sea more~</EnglishText>
+      <EnglishText>But I prefer the ocean!♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -433,7 +435,8 @@ No</EnglishText>
 作った青い陶磁器が並ぶ棚。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Shelf of Plates -
 The shelf is lined with ceramics
-built at the mountain's summit.</EnglishText>
+created with earth from the peak
+of Babilograd's mountains.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>30</Id>
@@ -468,10 +471,11 @@ smile fearlessly for no reason.</EnglishText>
 広がっていて、吸い込まれそう。
 本当に吸い込まれる事はない。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Pleasant Windows -
-The endless sky through the
-window seems to suck you in.
-But you're still here.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Pleasant Window -
+The endless sky outside the
+window seems to draw you
+outside. Of course, you're
+still inside.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>32</Id>
@@ -561,8 +565,9 @@ refrained from doing so.</EnglishText>
 なべつかみを使っても熱そう。
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Boiling Pot -
-It's boiling. It's hot even if 
-you handle it with oven mitts.</EnglishText>
+It's boiling. It looks too
+hot to hold even with a
+pot holder.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>40</Id>
@@ -577,14 +582,14 @@ you handle it with oven mitts.</EnglishText>
 やわらかくなる。
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Boiling Pot's Contents -
-A soup compromised of mushrooms
+A soup comprised of mushrooms
 and nuts. The wild vegetables
-from Babilograd soften when
-cooked this way.</EnglishText>
-      <Notes>DeepL says mushrooms and nuts lol wtf</Notes>
+from Babilograd can only soften
+after being boiled for a long time.</EnglishText>
+      <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>41</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

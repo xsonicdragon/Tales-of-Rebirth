@@ -64,10 +64,10 @@
     <Entry>
       <PointerOffset>662</PointerOffset>
       <JapaneseText>町の人たちが祈りを捧げている。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The townsfolk are all praying.</EnglishText>
       <Notes>Floating text</Notes>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -93,7 +93,7 @@ without your help.</EnglishText>
 &lt;Blue&gt;王の盾&lt;White&gt;の務めですから。
 ……ねえ……&lt;Agarte&gt;様？</JapaneseText>
       <EnglishText>Why of course. After all,
-it's the &lt;Blue&gt;Royal Shield's&lt;White&gt; duty
+it's the &lt;Blue&gt;Royal Shield&lt;White&gt;'s duty
 to protect the Queen. Isn't
 that right, Queen Agarte?</EnglishText>
       <Notes/>
