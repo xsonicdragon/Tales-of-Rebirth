@@ -301,7 +301,8 @@ in this world is money!</EnglishText>
       <PointerOffset>2406</PointerOffset>
       <JapaneseText>……って、ワン・ギン様が
 言ってたよ。</JapaneseText>
-      <EnglishText>...is what Mr. Wang Gin said.</EnglishText>
+      <EnglishText>That's what Mr. Wang
+Gin says at least.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
@@ -323,9 +324,9 @@ important person in town.</EnglishText>
       <JapaneseText>旅の人を探してるんなら、
 宿屋にいるかもしれないね。
 宿屋はすぐそこの建物よ。</JapaneseText>
-      <EnglishText>If you're looking for travelers,
-you might find them at the inn.
-The inn's that building over there.</EnglishText>
+      <EnglishText>If you're looking for a traveler,
+he might be at the inn. It's
+right over there.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
@@ -347,8 +348,9 @@ but he has a lot of enemies.</EnglishText>
       <PointerOffset>2528</PointerOffset>
       <JapaneseText>でも、みんな面と向かって
 悪口とか言えないみたい。</JapaneseText>
-      <EnglishText>Though, it seems like no one would
-dare say that to his face.</EnglishText>
+      <EnglishText>Though no one would dare
+say anything bad about him
+to his face.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
@@ -358,8 +360,9 @@ dare say that to his face.</EnglishText>
       <PointerOffset>2550</PointerOffset>
       <JapaneseText>お金を使って、
 色々仕返しされちゃうから。</JapaneseText>
-      <EnglishText>Because he's gonna use his 
-money to pay them back.</EnglishText>
+      <EnglishText>He has the money to get
+back at them several times
+over, after all.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
@@ -369,8 +372,8 @@ money to pay them back.</EnglishText>
       <PointerOffset>2589</PointerOffset>
       <JapaneseText>早くオークションに
 参加できるようになりたいなあ……</JapaneseText>
-      <EnglishText>I wish I could get to participate
-in the auction immediately...</EnglishText>
+      <EnglishText>I'd like to be able to
+attend an auction soon...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
@@ -381,9 +384,8 @@ in the auction immediately...</EnglishText>
       <JapaneseText>オークションに参加できるように
 なったら、出品された
 ステキなドレスを買うのよ。</JapaneseText>
-      <EnglishText>Once I'm old enough to
-join the auction, I'll buy
-a pretty dress to wear.</EnglishText>
+      <EnglishText>Once I'm old enough, I'll buy
+a pretty dress for the occasion.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
@@ -407,9 +409,9 @@ is really rich.</EnglishText>
       <JapaneseText>でも少しくらい盗られたって、
 本当はワン・ギン様は
 痛くもかゆくもないらしいわ。</JapaneseText>
-      <EnglishText>But Mr. Wang Gin doesn't
-bat an eye no matter 
-how much they steal.</EnglishText>
+      <EnglishText>But Mr. Wang Gin doesn't seem
+to mind so long as they don't
+steal too much.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
@@ -421,9 +423,9 @@ how much they steal.</EnglishText>
 ワン・ギン様は痛くもかゆくも
 なかったんだって。
 </JapaneseText>
-      <EnglishText>Those bandits attacked the
-village, but Mr. Wang Gin
-said he doesn't care.</EnglishText>
+      <EnglishText>Mr. Wang Gin got robbed
+by bandits, but he said
+he wasn't bothered at all.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
@@ -444,8 +446,9 @@ wonderful, isn't it?</EnglishText>
       <PointerOffset>2805</PointerOffset>
       <JapaneseText>ベルサスにアガーテ様が来て
 みんなの前でお話したんだって。</JapaneseText>
-      <EnglishText>Everyone has been saying that
-Lady Agarte came to Belsas.</EnglishText>
+      <EnglishText>I heard that Queen Agarte
+talked in front of everyone
+in Belsas.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
@@ -455,7 +458,7 @@ Lady Agarte came to Belsas.</EnglishText>
       <PointerOffset>2827</PointerOffset>
       <JapaneseText>アガーテ様って、
 お金持ちなのかな？</JapaneseText>
-      <EnglishText>Is Lady Agarte rich?</EnglishText>
+      <EnglishText>Is Queen Agarte rich?</EnglishText>
       <Notes>Shes a princess dumbass</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
@@ -466,9 +469,8 @@ Lady Agarte came to Belsas.</EnglishText>
       <JapaneseText>ガジュマとかヒューマとか
 みんな、種族の事が気になって、
 それで争ってるんだって。</JapaneseText>
-      <EnglishText>Be it Gajuma or Huma, everyone's
-concious about race and they keep
-fighting over it.</EnglishText>
+      <EnglishText>Everyone is fighting over whether
+they're Huma or Gajuma.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
@@ -480,7 +482,7 @@ fighting over it.</EnglishText>
 気にならないけどなぁ。
 </JapaneseText>
       <EnglishText>As for me, I only care
-if I'm rich or not.</EnglishText>
+about being rich.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>35</Id>
@@ -491,9 +493,9 @@ if I'm rich or not.</EnglishText>
       <JapaneseText>この音、うるさいけど、
 そのうちワン・ギン様が
 お金を使って止めてくれるわ。</JapaneseText>
-      <EnglishText>This sound really is noisy.
-I wish Mr. Wang Gin would
-pay the noise to shut up.</EnglishText>
+      <EnglishText>That sound is really loud.
+I wish Mr. Wang Gin
+would pay to shut it up.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
@@ -532,7 +534,7 @@ rich man someday.</EnglishText>
 マユツバばかりなんだってさ。
 </JapaneseText>
       <EnglishText>That wise old man keeps
-telling dubious tales.</EnglishText>
+telling "dooby-us" tales.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>39</Id>
@@ -543,7 +545,7 @@ telling dubious tales.</EnglishText>
       <JapaneseText>……マユツバって……
 うまいのか？
 </JapaneseText>
-      <EnglishText>What's "dubious?"
+      <EnglishText>What is a "dooby-us"...?
 Is it tasty?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -555,9 +557,9 @@ Is it tasty?</EnglishText>
       <JapaneseText>&lt;Cyan&gt;幻の庭&lt;White&gt;って何？
 うまいものがたくさん置いてる
 食堂の名前？</JapaneseText>
-      <EnglishText>What's a &lt;Cyan&gt;Garden of Illusions&lt;White&gt;?
-Is that the name of a tavern
-with tasty food?</EnglishText>
+      <EnglishText>What's the &lt;Cyan&gt;Garden of Illusions&lt;White&gt;?
+Is that the name of a restaurant
+with a lot of tasty food?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>41</Id>
@@ -568,7 +570,7 @@ with tasty food?</EnglishText>
       <JapaneseText>みんな、
 ワン・ギン様には
 頭が上がらないんだ。</JapaneseText>
-      <EnglishText>Nobody can go against Wang Gin.</EnglishText>
+      <EnglishText>Nobody compares to Mr. Wang Gin.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>42</Id>
@@ -578,8 +580,8 @@ with tasty food?</EnglishText>
       <PointerOffset>1741</PointerOffset>
       <JapaneseText>だって、この街で
 一番エライ人なんだもん。</JapaneseText>
-      <EnglishText>Because he's this town's
-most important person.</EnglishText>
+      <EnglishText>He's the most important person
+in town, after all.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
@@ -600,8 +602,9 @@ at the auction.</EnglishText>
       <PointerOffset>1802</PointerOffset>
       <JapaneseText>どんなご馳走が出てくるんだろ？
 早く大人になりたいな……</JapaneseText>
-      <EnglishText>I wonder what tasty food they serve
-there? I want to get older now...</EnglishText>
+      <EnglishText>I wonder what tasty food
+they serve there? I can't
+wait to grow up...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>45</Id>
@@ -623,8 +626,8 @@ if we don't fight back.</EnglishText>
       <PointerOffset>1874</PointerOffset>
       <JapaneseText>大人たちが
 そう言ってたよ。</JapaneseText>
-      <EnglishText>That's what the
-adults told us.</EnglishText>
+      <EnglishText>That's what the adults
+tell me, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>47</Id>
@@ -647,8 +650,9 @@ they're poor, right?</EnglishText>
       <JapaneseText>だったら、みんなでお金を
 あげればいいのにね。
 </JapaneseText>
-      <EnglishText>I think it would be better if everyone 
-gave all their money to them.</EnglishText>
+      <EnglishText>I think it would be better
+if everyone just gave all
+their money to them.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -658,7 +662,7 @@ gave all their money to them.</EnglishText>
       <PointerOffset>1996</PointerOffset>
       <JapaneseText>ボク、アガーテ様に会いたいな！
 ベルサスに来たんだってさ！</JapaneseText>
-      <EnglishText>I want to meet Lady Agarte!
+      <EnglishText>I want to meet Queen Agarte!
 I heard she went to Belsas!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -669,8 +673,8 @@ I heard she went to Belsas!</EnglishText>
       <PointerOffset>2018</PointerOffset>
       <JapaneseText>いくらあげたらキョグエンにも
 来てくれるのかなぁ？</JapaneseText>
-      <EnglishText>How much do I have to pay her so
-that she'll come here to Kyogen?</EnglishText>
+      <EnglishText>How much do I have to pay her
+so that she'll come to Kyogen?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>51</Id>
@@ -693,8 +697,8 @@ because everyone's rich.</EnglishText>
       <JapaneseText>他の街の人たちもみんな、
 お金持ちになればいいのにね！
 </JapaneseText>
-      <EnglishText>I wish everyone else in other
-towns had money too!</EnglishText>
+      <EnglishText>I wish everyone in other
+towns all had money too!</EnglishText>
       <Notes>&lt;n&gt;</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>53</Id>
@@ -706,7 +710,7 @@ towns had money too!</EnglishText>
 止められるのかなぁ？
 </JapaneseText>
       <EnglishText>How much do I have to pay
-this sound to make it stop?</EnglishText>
+to get this sound to stop?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>54</Id>
@@ -717,7 +721,7 @@ this sound to make it stop?</EnglishText>
       <JapaneseText>５００００ガルドだったら
 ボクが軽く払ってあげるのにな。</JapaneseText>
       <EnglishText>I hope 50,000 Gald is enough.
-That's my pocket money.</EnglishText>
+I'd be willing to pay that.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>55</Id>
@@ -728,8 +732,9 @@ That's my pocket money.</EnglishText>
       <JapaneseText>バ、バイラスに……
 いくらあげたらおそわれずに
 すむのかな……!?</JapaneseText>
-      <EnglishText>H-How much do I have to pay for
-th-those Biruses to go away!?</EnglishText>
+      <EnglishText>H-How much do I have to
+pay so that those Biruses
+don't attack me?!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>56</Id>
@@ -741,7 +746,7 @@ th-those Biruses to go away!?</EnglishText>
 ちょっと払えば、みんな
 なんでもやってくれるもんね。
 </JapaneseText>
-      <EnglishText>Money really is useful. People
+      <EnglishText>Money is really useful. People
 will do whatever you want
 for the right price.</EnglishText>
       <Notes/>
@@ -777,8 +782,9 @@ ask the Wise Old Man.</EnglishText>
     <Entry>
       <PointerOffset>710</PointerOffset>
       <JapaneseText>&lt;Cyan&gt;幻の庭&lt;White&gt;を探しとる人？</JapaneseText>
-      <EnglishText>Someone who's searching for 
-the &lt;Cyan&gt;Garden of Illusions&lt;White&gt;?</EnglishText>
+      <EnglishText>You're looking for someone
+searching for the &lt;Cyan&gt;Garden
+of Illusions&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>60</Id>
@@ -788,9 +794,9 @@ the &lt;Cyan&gt;Garden of Illusions&lt;White&gt;?</EnglishText>
       <PointerOffset>732</PointerOffset>
       <JapaneseText>そう言えば、そんな事を聞きに来た
 暑苦しい格好の人がおったのう……</JapaneseText>
-      <EnglishText>Hmm... I believe someone wearing
-unbelievably hot clothes came by
-and asked me about that...</EnglishText>
+      <EnglishText>Now that you mention it, someone
+wearing stuffy clothes did ask me
+about it...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
@@ -814,8 +820,8 @@ He's a no-good scumbag.</EnglishText>
       <JapaneseText>金をチラつかせて、この地方を
 管轄する役人をたらしこんだとか。
 </JapaneseText>
-      <EnglishText>He flashes around his money,
-and has this town's government
+      <EnglishText>He flaunts his money, and
+has the local government
 under his thumb.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -851,8 +857,8 @@ I can't wait...</EnglishText>
       <PointerOffset>876</PointerOffset>
       <JapaneseText>……ワン・ギンは気に食わんが
 オークションは楽しいからのう……</JapaneseText>
-      <EnglishText>I don't really like Wang Gin, but
-I can't wait for the auction...</EnglishText>
+      <EnglishText>I don't really like Wang Gin,
+but those are so much fun...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
@@ -874,8 +880,9 @@ of the auction...</EnglishText>
       <JapaneseText>フランツという冒険家なら、
 この前、一度街に戻って
 来とったようだが……</JapaneseText>
-      <EnglishText>An adventurer called Franz returned
-to town the other day...</EnglishText>
+      <EnglishText>An adventurer called Franz
+visited Kyogen again the
+other day...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
@@ -911,9 +918,9 @@ even if I cover my ears... Ugh...</EnglishText>
       <JapaneseText>オークションに、
 「どんな音も消す耳セン」が
 出たらイイ値がつくだろうなぁ。</JapaneseText>
-      <EnglishText>I think earplugs that could block
-all sound would sell high if they
-were put on auction.</EnglishText>
+      <EnglishText>I think earplugs that can block
+all sounds would go for a high
+price at the auction.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>71</Id>
@@ -924,9 +931,9 @@ were put on auction.</EnglishText>
       <JapaneseText>ワン・ギンが盗賊に
 襲われたそうだよ。
 ふん、ざまあみろ……</JapaneseText>
-      <EnglishText>I heard that Wang Gin got
-attacked by those burglars.
-Hmph, serves him right...</EnglishText>
+      <EnglishText>I heard that Wang Gin was
+attacked by bandits. Hmph,
+serves him right...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>72</Id>
@@ -937,13 +944,13 @@ Hmph, serves him right...</EnglishText>
       <JapaneseText>ワン・ギンがよそ者に
 殴られたそうだよ。
 実に痛快だ……むふ。</JapaneseText>
-      <EnglishText>I heard that Wang Gin got beat
-up by some outsider. Just
-hearing about it excites me...</EnglishText>
-      <Notes>Clunky and Deepl is unhelpful</Notes>
+      <EnglishText>I heard that Wang Gin got
+punched by someone from out
+of town. How satisfying... Heh.</EnglishText>
+      <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>73</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>1165</PointerOffset>
@@ -951,9 +958,9 @@ hearing about it excites me...</EnglishText>
 「ワン・ギンを殴る権利」が出たら
 いくらだって買うんだがねぇ。
 </JapaneseText>
-      <EnglishText>If the chance to beat up Wang Gin
-ever comes up in the auction, I'll
-bid all of my money on it.</EnglishText>
+      <EnglishText>If the opportunity to punch Wang
+Gin ever goes up for auction, I'll
+bid all my money on it.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>74</Id>
@@ -963,8 +970,8 @@ bid all of my money on it.</EnglishText>
       <PointerOffset>1232</PointerOffset>
       <JapaneseText>アガーテ様のお話ねえ……
 そう言えば……</JapaneseText>
-      <EnglishText>Lady Agarte's speech...
-Speaking of her...</EnglishText>
+      <EnglishText>Queen Agarte gave a speech...
+Come to think of it...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>75</Id>
@@ -975,9 +982,9 @@ Speaking of her...</EnglishText>
       <JapaneseText>アガーテ様にそっくりな娘が
 ワン・ギンのところにいたとか。
 どういう事なんだか……</JapaneseText>
-      <EnglishText>Wang Gin had a girl that looked
-just like Lady Agarte... What's
-the meaning of this...?</EnglishText>
+      <EnglishText>...Wang Gin had a girl who looked
+just like her with him. I wonder
+what that was about...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>76</Id>
@@ -988,10 +995,9 @@ the meaning of this...?</EnglishText>
       <JapaneseText>本当、軍人さんもご苦労だね。
 朝昼晩問わず、歩き続けて
 その先で騒乱鎮圧だなんて。</JapaneseText>
-      <EnglishText>I must thank those guards for
-their splended work. Day in
-and day out, they patrol the
-town preventing any trouble.</EnglishText>
+      <EnglishText>A appreciate the army for their
+hard work. They work morning,
+noon, and night supressing riots.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>77</Id>
@@ -1001,8 +1007,9 @@ town preventing any trouble.</EnglishText>
       <PointerOffset>1343</PointerOffset>
       <JapaneseText>いや、今度は
 ミナールらしいんだがね。</JapaneseText>
-      <EnglishText>Ah-- This time is just
-like Minal, though...</EnglishText>
+      <EnglishText>Oh, it seems like this
+time there's something
+going on in Minal.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>78</Id>
@@ -1012,8 +1019,8 @@ like Minal, though...</EnglishText>
       <PointerOffset>1365</PointerOffset>
       <JapaneseText>何を好き好んで軍人になんか
 なるものかねえ……</JapaneseText>
-      <EnglishText>What would you like to do
-if you were a soldier...?</EnglishText>
+      <EnglishText>Why would anyone want
+to be a soldier...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>79</Id>
@@ -1038,9 +1045,9 @@ were to come up at the auction.</EnglishText>
       <JapaneseText>オ、オークションに……
 「バイラスを倒してくれる戦士」が
 出る予定はないのかね……!?</JapaneseText>
-      <EnglishText>Does the auction not offer
-a warrior strong enough to
-chase away the Biruses...?</EnglishText>
+      <EnglishText>W-Would they not be able to
+offer a warrior strong enough to
+defeat Biruses at the auction?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>81</Id>
@@ -1052,9 +1059,10 @@ chase away the Biruses...?</EnglishText>
 思いもよらんものが出品されて、
 信じられんような値段がつく……
 </JapaneseText>
-      <EnglishText>I'm honestly excited for the auction.
-The items that appear there and the
-price they sell for are unbelievable!</EnglishText>
+      <EnglishText>I'm really excited for the auction.
+The items that appear there are
+rare and they go for outrageous
+prices.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>82</Id>
@@ -1069,7 +1077,7 @@ price they sell for are unbelievable!</EnglishText>
       <EnglishText>Well, it might be irritating for
 people who don't have any cash,
 but not for me! I'm filthy rich,
-you see... Haha...</EnglishText>
+you see... Heheh...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>83</Id>
