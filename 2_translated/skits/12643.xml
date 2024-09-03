@@ -10,15 +10,15 @@
       <EnglishText>&lt;Veigue&gt;, let's go after the innkeeper!</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2899</PointerOffset>
       <JapaneseText>わかった。</JapaneseText>
-      <EnglishText>Okay.</EnglishText>
+      <EnglishText>Got it.</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
