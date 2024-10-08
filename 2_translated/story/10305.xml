@@ -232,7 +232,7 @@ factory know about this!</EnglishText>
 こんなのよ……</JapaneseText>
       <EnglishText>This is so absurd...
 This is just some sort of
-illusion or... whatever.</EnglishText>
+illusion or...whatever.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -701,7 +701,8 @@ before your own, don't you.</EnglishText>
       <PointerOffset>7379</PointerOffset>
       <JapaneseText>&lt;Green&gt;アガーテは
 称号『&lt;item:10000093&gt;』を取得しました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Agarte has received the title "&lt;item:10000093&gt;."</EnglishText>
+      <EnglishText>&lt;Green&gt;Agarte has received 
+the title "&lt;item:10000093&gt;."</EnglishText>
       <Notes>idk if that tag is right.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>50</Id>

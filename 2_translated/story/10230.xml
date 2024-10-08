@@ -358,8 +358,9 @@ to be gathering up Huma girls.</EnglishText>
       <VoiceId>0c0000f3</VoiceId>
       <JapaneseText>ああ。しかし、陛下は
 ヒューマの娘を集めて何を……？</JapaneseText>
-      <EnglishText>Indeed. But why would Her
-Majesty be doing such a thing...?</EnglishText>
+      <EnglishText>Indeed. But why would
+Her Majesty be doing such
+a thing...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
@@ -372,9 +373,10 @@ Majesty be doing such a thing...?</EnglishText>
 そんな事はどうでもいい。
 クレアを取り戻すだけだ。
 とにかく、ミナールへ向かおう。</JapaneseText>
-      <EnglishText>I don't care what her reasons are.
-I just want to get Claire home safe.
-Come on, let's go to Minal.</EnglishText>
+      <EnglishText>I don't care what her reasons
+are. I just want to get Claire
+home safe. Come on, let's go
+to Minal.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -394,10 +396,10 @@ Come on, let's go to Minal.</EnglishText>
       <JapaneseText>&lt;Green&gt;各地に宿屋・食材屋、他にも
 道具屋、武器屋などの施設が
 あります。</JapaneseText>
-      <EnglishText>Each location will have an inn and grocer,
-as well as other facilities such as an
-Item shop and a weapon shop.</EnglishText>
-      <Notes>this need to be wordsmithed</Notes>
+      <EnglishText>Each location will have an inn and
+grocer, as well as other facilities
+such as item and weapon shops.</EnglishText>
+      <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
       <Status>Proofreading</Status>
@@ -407,9 +409,9 @@ Item shop and a weapon shop.</EnglishText>
       <JapaneseText>&lt;Green&gt;食材屋に立ち寄り、
 料理に必要な食材を調達するなど、
 冒険の準備を整えましょう。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Stop by the grocer's to get the
-ingredients you need for cooking so
-you'll be ready for your adventure.</EnglishText>
+      <EnglishText>&lt;Green&gt;Stop by the grocer's to get the ingredients
+you need for cooking so you'll be ready for
+your adventure.</EnglishText>
       <Notes>this need to be wordsmithed</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
@@ -739,7 +741,7 @@ a whole bunch.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>54</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>920</PointerOffset>
@@ -752,7 +754,7 @@ Thank goodness, &lt;Veigue&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>55</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>970</PointerOffset>

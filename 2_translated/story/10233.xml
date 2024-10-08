@@ -101,7 +101,7 @@ battle system.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7312</PointerOffset>
@@ -118,7 +118,7 @@ at the top of your game!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7336</PointerOffset>
@@ -131,7 +131,7 @@ Battle Book.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7390</PointerOffset>
@@ -164,8 +164,9 @@ No</EnglishText>
       <PointerOffset>2393</PointerOffset>
       <JapaneseText>氷の中って……やっぱり
 冷たいんだろうな……</JapaneseText>
-      <EnglishText>Being encased in ice...
-That must be really cold...</EnglishText>
+      <EnglishText>Being encased in
+ice... That must
+be really cold...</EnglishText>
       <Notes>maybe: "being encased in ice"</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -305,7 +306,7 @@ meet you.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>1520</PointerOffset>
@@ -326,9 +327,9 @@ Please, save her...!</EnglishText>
 クレアを連れ戻すのよ。
 ……がんばって！
 </JapaneseText>
-      <EnglishText>&lt;Veigue&gt;...please come
-back with Claire.
-...I'm rooting for you!</EnglishText>
+      <EnglishText>&lt;Veigue&gt;...please come back
+with Claire. ...I'm rooting
+for you!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>

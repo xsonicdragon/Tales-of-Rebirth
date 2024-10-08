@@ -139,7 +139,7 @@ more meticulous.</EnglishText>
       <PointerOffset>850</PointerOffset>
       <JapaneseText>こ、こんにちは、
 &lt;Tytree&gt;さん……！</JapaneseText>
-      <EnglishText>G-Good Morning, Mister Tytree...!</EnglishText>
+      <EnglishText>G-Good morning, Mister Tytree...!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -746,8 +746,8 @@ it will turn your hand black.</EnglishText>
       <EnglishText>&lt;speed:0&gt;- Shovel -
 A shovel used to both place
 coal into the finery forge and
-take the refined coal and place
-it in a wheelbarrow.</EnglishText>
+move the refined coal into a
+wheelbarrow.</EnglishText>
       <Notes>clunky</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>59</Id>
