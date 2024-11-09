@@ -576,8 +576,8 @@ don't like mushrooms?</EnglishText>
       <PointerOffset>3995</PointerOffset>
       <JapaneseText>よっしゃ！　決まりだ！
 さっそく出発しようぜ！</JapaneseText>
-      <EnglishText>All right! It's decided then! Well,
-we'll be headed out then!</EnglishText>
+      <EnglishText>All right! It's decided then!
+Well, we'll be heading out!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>41</Id>
@@ -693,7 +693,7 @@ We'll be there for each other!</EnglishText>
     <Entry>
       <PointerOffset>4327</PointerOffset>
       <JapaneseText>アカダマダケ、見参！</JapaneseText>
-      <EnglishText>We're off to get some
+      <EnglishText>We brought some
 Amber Jewels!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -1893,12 +1893,12 @@ bottom of my heart.</EnglishText>
 言ったな……
 ごめんなさいじゃなくて。</JapaneseText>
       <EnglishText>Finally, you're saying
-"thank you", and not
+"thank you," and not
 "I'm sorry"...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>162</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9876</PointerOffset>

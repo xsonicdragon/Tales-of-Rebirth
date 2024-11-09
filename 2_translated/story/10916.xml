@@ -99,11 +99,11 @@ No</EnglishText>
 　ご遠慮下さい。」</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Bell -
 There is a note on using the
-bell. If there is no staff behind
+bell. "If there is no staff behind
 the counter, please ring the bell
-only once. If there is a staff
+only once. If there is staff
 behind the counter, please do
-not ring the bell.</EnglishText>
+not ring the bell."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -126,7 +126,7 @@ is hanging on the wall. It is
 said to have been used by a
 certain female warrior, but the
 details are unknown.</EnglishText>
-      <Notes/>
+      <Notes>mary's axe?</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <Status>Proofreading</Status>
@@ -192,7 +192,7 @@ of nostalgia.</EnglishText>
     <Entry>
       <PointerOffset>1082</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~.</EnglishText>
+      <EnglishText>Welcome~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -216,7 +216,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1168</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~.</EnglishText>
+      <EnglishText>Welcome~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -225,7 +225,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1209</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~.</EnglishText>
+      <EnglishText>Welcome~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -234,7 +234,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1250</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~.</EnglishText>
+      <EnglishText>Welcome~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -245,9 +245,9 @@ Cancel</EnglishText>
       <JapaneseText>&lt;Hilda&gt;さん……
 ナイラさんがキミに託した
 希望……忘れないで……</JapaneseText>
-      <EnglishText>Miss &lt;Hilda&gt;... That hope
-Nayla entrusted to you...
-Please remember it...</EnglishText>
+      <EnglishText>Miss &lt;Hilda&gt;... Please remember
+the hope that Nayla entrusted
+to you....</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -259,12 +259,12 @@ Please remember it...</EnglishText>
 そして私たちがついているよ。
 ここはキミのふるさとだ。</JapaneseText>
       <EnglishText>You will always have Miss Nayla
-and us right alongside you. You
-will always have a home here.</EnglishText>
-      <Notes>didn't Nayla die? -dragon</Notes>
+and us right alongside you. This
+is your home, after all.</EnglishText>
+      <Notes>didn't Nayla die? -dragon (they're talking about Nayla's memory)</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>1399</PointerOffset>
@@ -282,8 +282,9 @@ Please, continue to protect her.</EnglishText>
       <PointerOffset>1463</PointerOffset>
       <JapaneseText>前に来た時と違って、
 とても優しい目になったね。</JapaneseText>
-      <EnglishText>Your eyes are much kinder
-than when you were last here.</EnglishText>
+      <EnglishText>Your eyes have grown kinder
+compared to when you were
+last here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -305,8 +306,8 @@ to worry so much anymore.</EnglishText>
       <PointerOffset>1510</PointerOffset>
       <JapaneseText>どうして&lt;Yellow&gt;ヒト&lt;White&gt;は&lt;Yellow&gt;ヒト&lt;White&gt;として
 生きられないんでしょうか？</JapaneseText>
-      <EnglishText>Why can't &lt;Yellow&gt;humans&lt;White&gt; just
-live together as &lt;Yellow&gt;humans&lt;White&gt;?</EnglishText>
+      <EnglishText>Why can't a &lt;Yellow&gt;Human Being&lt;White&gt;
+live as they are?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -318,8 +319,9 @@ live together as &lt;Yellow&gt;humans&lt;White&gt;?</EnglishText>
 争う理由にはならない……
 私はそう思うんです。</JapaneseText>
       <EnglishText>Things like race and differences
-in appearance aren't reasons to
-fight... At least that's my belief.</EnglishText>
+in appearance are no good 
+reasons to fight. At least,
+that's what I believe.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -344,10 +346,9 @@ Hopefully it's nothing serious...</EnglishText>
 種族を作り出すのは&lt;Yellow&gt;ヒト&lt;White&gt;なんです。
 私たちが変わらなくては……</JapaneseText>
       <EnglishText>I believe...there is no such thing
-as race. Rather, it's &lt;Yellow&gt;humans&lt;White&gt; who
-have created this concept of race.
-We have to be the ones to make
-a change.</EnglishText>
+as race. Rather, the concept of
+race is &lt;Yellow&gt;Manmade&lt;White&gt;. We have to be
+the ones to make a change.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -549,8 +550,8 @@ live with dignity.</EnglishText>
 この街の寒さは身にしみます。</JapaneseText>
       <EnglishText>For those of us accustomed
 to living in the Southern
-regions, the cold in this
-town feels familiar.</EnglishText>
+regions, we're bothered
+more by the cold here.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>

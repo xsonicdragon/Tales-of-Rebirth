@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>20072,20114,20160</PointerOffset>
       <JapaneseText>のこ</JapaneseText>
-      <EnglishText>Mushy</EnglishText>
+      <EnglishText>Noko</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294,18024,18063,18673,18720,19200,19255,19327,22545</PointerOffset>
@@ -120,8 +120,8 @@ too much, rabby!</EnglishText>
     <Entry>
       <PointerOffset>20189</PointerOffset>
       <JapaneseText>のこのこきのこ食べるバニー？</JapaneseText>
-      <EnglishText>You wanna eat some
-Mushy Mushrooms, bunny?</EnglishText>
+      <EnglishText>You wanna eat some Noko
+Mushrooms, bunny?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -131,8 +131,8 @@ Mushy Mushrooms, bunny?</EnglishText>
       <PointerOffset>20230</PointerOffset>
       <JapaneseText>のこのみみを食べれば
 元気いっぱいだバニー？</JapaneseText>
-      <EnglishText>Eating Mushy ears'll give you
-lotsa energy. Don'tcha know, bunny?</EnglishText>
+      <EnglishText>Eating Noko ears'll give you lotsa
+energy. Don'tcha know, bunny?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
@@ -185,8 +185,8 @@ That's a shame, bunny...</EnglishText>
       <PointerOffset>20480</PointerOffset>
       <JapaneseText>のこのみみは
 また生えるだバニー。</JapaneseText>
-      <EnglishText>The Mushy's ears
-are growing back, bunny.</EnglishText>
+      <EnglishText>The Noko's ears are
+growing back, bunny.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>12</Id>
@@ -254,7 +254,7 @@ Maybe Later
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>19235</PointerOffset>
@@ -284,7 +284,7 @@ Maybe Later
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>26059</PointerOffset>
@@ -296,7 +296,7 @@ Maybe Later
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25738</PointerOffset>
@@ -306,7 +306,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25777</PointerOffset>
@@ -316,7 +316,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25788</PointerOffset>
@@ -326,7 +326,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25827</PointerOffset>
@@ -336,7 +336,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25838</PointerOffset>
@@ -346,7 +346,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25877</PointerOffset>
@@ -356,7 +356,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25888</PointerOffset>
@@ -366,7 +366,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25927</PointerOffset>
@@ -376,7 +376,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25938</PointerOffset>
@@ -386,7 +386,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25977</PointerOffset>
@@ -396,7 +396,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>25988</PointerOffset>
@@ -406,7 +406,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>26027</PointerOffset>
@@ -416,7 +416,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>26038</PointerOffset>
@@ -426,7 +426,7 @@ Maybe Later
 </EnglishText>
       <Notes>These are the possible options for the previous line with all the UNK18's</Notes>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>19375</PointerOffset>
@@ -1776,8 +1776,8 @@ No</EnglishText>
 　Beast of Calamity　
 　Yuris's Realm　
 　Seal　
-　Epilogue　
-　Epilogue &lt;scale:F0&gt;No Credits&lt;scale:100&gt;　
+　Ending　
+　Ending &lt;scale:F0&gt;(No Credits)&lt;scale:100&gt;　
 　Next　
 </EnglishText>
       <Notes/>
@@ -1813,7 +1813,8 @@ No</EnglishText>
     <Entry>
       <PointerOffset>24216</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.
+</EnglishText>
       <Notes/>
       <Id>177</Id>
       <Status>Done</Status>
@@ -1821,10 +1822,11 @@ No</EnglishText>
     <Entry>
       <PointerOffset>24294</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now travelling with you.</EnglishText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now travelling with you.
+</EnglishText>
       <Notes/>
       <Id>178</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>

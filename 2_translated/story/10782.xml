@@ -282,23 +282,24 @@ Free of charge, of course.</EnglishText>
       <EnglishText>You there...this book is amazing!
 It taught me everything I know 
 and got me to where I am today.</EnglishText>
-      <Notes>Double check tl</Notes>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2330</PointerOffset>
       <JapaneseText>冒険を体験した人間が読むと、
 行間に込められた緊迫感まで
 感じることができるんだね！</JapaneseText>
-      <EnglishText>The suspense, the adventure, the excitement
-and reading between the lines you can really
-feel the sense of urgency and determination!</EnglishText>
-      <Notes>double check tl</Notes>
+      <EnglishText>The suspense, the adventure, the
+excitement... Reading between the
+lines you can really feel the sense
+of urgency and determination!</EnglishText>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2354</PointerOffset>
@@ -314,21 +315,23 @@ feel the sense of urgency and determination!</EnglishText>
       <JapaneseText>とっても勉強になったよ。
 これ、僕の授業料だから
 受け取って！</JapaneseText>
-      <EnglishText>This book had taught me quite a bit.
-Consider it as a free gift for you!</EnglishText>
+      <EnglishText>This book has taught me
+quite a bit. Consider it a
+free gift from me to you!</EnglishText>
       <Notes>double check tl</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2423</PointerOffset>
       <JapaneseText>さあ！　冒険を続けるぞ!!</JapaneseText>
-      <EnglishText>Come on! Let's keep this adventure going!</EnglishText>
-      <Notes>double check tl</Notes>
+      <EnglishText>Come on! Let's keep
+this adventure going!</EnglishText>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>2464</PointerOffset>
@@ -336,10 +339,10 @@ Consider it as a free gift for you!</EnglishText>
 そろそろ出発するか!!</JapaneseText>
       <EnglishText>Alright, we've tarried long enough.
 It is time for the journey to continue!</EnglishText>
-      <Notes>double check tl</Notes>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -349,9 +352,9 @@ It is time for the journey to continue!</EnglishText>
       <JapaneseText>ああ、なんてうるさい音なんだ……
 これじゃ、新しいツボなんて、
 作れないよ……！</JapaneseText>
-      <EnglishText>My, what was that awful sound...
-How am I supposed to make any
-new pottery with such a racket...!</EnglishText>
+      <EnglishText>My, what an awful sound...
+I won't be able to make any
+new pottery at this rate...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
@@ -389,9 +392,10 @@ can't get the right color...</EnglishText>
 私の理想の色を出せる奇跡の粉が、
 どこかにないものか……
 </JapaneseText>
-      <EnglishText>The pot of my dreams... I wonder if
-there is a miracle powder somewhere
-that will produce my ideal color...</EnglishText>
+      <EnglishText>There was a pot in my dream...
+I wonder if a miraculous powder
+that produces the ideal color
+exists somewhere...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>27</Id>
@@ -465,8 +469,9 @@ any more rare powders.</EnglishText>
       <JapaneseText>珍しい粉を求めて、
 旅に出ようかなって
 考えてるんだよ。</JapaneseText>
-      <EnglishText>I am thinking of going on a journey
-in search of some rare powders.</EnglishText>
+      <EnglishText>I've been thinking of going
+on a journey in search of
+some rare powders.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
@@ -484,7 +489,7 @@ in search of some rare powders.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>34</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1366</PointerOffset>
@@ -642,7 +647,7 @@ up a great beauty with this.</EnglishText>
       <PointerOffset>2149</PointerOffset>
       <JapaneseText>これをやるよ。
 </JapaneseText>
-      <EnglishText>Here we go.</EnglishText>
+      <EnglishText>You can have this.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -653,8 +658,8 @@ up a great beauty with this.</EnglishText>
       <JapaneseText>また素晴らしいツボを
 焼いてみせるぞ！
 </JapaneseText>
-      <EnglishText>I'm going to fire up something
-great with this!</EnglishText>
+      <EnglishText>I'm going to fire up another 
+great pot with this!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>50</Id>
@@ -691,7 +696,7 @@ I will find you one day...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>53</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1724</PointerOffset>
@@ -701,7 +706,7 @@ I will find you one day...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>54</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1802</PointerOffset>
@@ -711,7 +716,7 @@ I will find you one day...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>55</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1881</PointerOffset>
@@ -721,7 +726,7 @@ I will find you one day...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>56</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1960</PointerOffset>
@@ -731,7 +736,7 @@ I will find you one day...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>57</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>2039</PointerOffset>
@@ -741,7 +746,7 @@ I will find you one day...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>58</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1297</PointerOffset>
@@ -749,9 +754,10 @@ I will find you one day...</EnglishText>
 ああ……どこかに
 いい粉を分けてくれる
 親切な人はいないもんだろうか……</JapaneseText>
-      <EnglishText>I see... If only there was a kind
-soul over there who could find
-and share some rare powders...</EnglishText>
+      <EnglishText>I see... Oh dear... Is there
+not a generous soul who
+would part with some rare
+powders out there...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>59</Id>
@@ -806,14 +812,14 @@ flames fills you with determination.</EnglishText>
 ツルベナ荒野の地下から
 掘り出した赤粘土。
 こだわりの土。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;-The Origin of Specific Clay-
-Certain colors of clay are only found
-in specific locations. For example,
-white clay is mined from fault lines
-along the Alvan Mountain ranges while
-red clay can only be mined from
+      <EnglishText>&lt;speed:0&gt;- The Origin of Specific Clay -
+Certain colors of clay are only found in
+specific locations. For example, kaolin is
+mined from Alvan Mountain's fault ridges
+while red clay can only be mined from
 beneath the Crvena Wastelands.</EnglishText>
-      <Notes>Clay is usually mined or gathered. Given the verbs used, I chose to use the word "mined."</Notes>
+      <Notes>Clay is usually mined or gathered. Given the verbs used, I chose to use the word "mined."
+Alvan mountain could be a Fault-block mountain meaning</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>62</Id>
       <Status>Proofreading</Status>
@@ -827,7 +833,7 @@ beneath the Crvena Wastelands.</EnglishText>
 作りかけのまま、乾燥してしまったツボ。
 考え事を始めてしまうと、今まで自分が
 やっていた事を忘れてしまう職人は多い。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;-A Half-Sculpted Pot-
+      <EnglishText>&lt;speed:0&gt;- Potter's Wheel and Po t-
 A piece of clay that has dried up
 mid sculpt. Many artisans forget
 about their current task once they
@@ -847,13 +853,13 @@ begin to get lost in their thoughts.</EnglishText>
 独自に調合したものが並んでいる。
 ヘラやすり鉢も自作の品。
 こだわりの品ぞろい。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;-Ceramic Coloring Tools-
-Commercially available products are
-intermingled with non-traditional,
-self-made products. Various tools
-also appear to be homemade. It's
-clear that great care was taken
-when gathering these tools.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Ceramic Coloring Tools -
+Commercially available products are laid
+together with non-traditional, self-made
+products. The putty knife and the mortar
+bowl also seem to be self-made. It's 
+clear that great care was taken when
+gathering these tools.</EnglishText>
       <Notes>The original Japanses ends the title with 'set.' Tools is probably more appropriate in this context.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>64</Id>

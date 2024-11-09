@@ -167,7 +167,8 @@ No</EnglishText>
       <PointerOffset>1170</PointerOffset>
       <JapaneseText>かの者、過去を求める。
 </JapaneseText>
-      <EnglishText>You, who searches for your past.</EnglishText>
+      <EnglishText>The one who is searching
+for their past.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -178,7 +179,7 @@ No</EnglishText>
       <JapaneseText> 　　&lt;Mao&gt;　　
 業火により焼死。</JapaneseText>
       <EnglishText> 　　&lt;Mao&gt;
-Burned to death by a fire.</EnglishText>
+Burned to death due to a fire.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -190,7 +191,8 @@ Burned to death by a fire.</EnglishText>
     <Entry>
       <PointerOffset>1135</PointerOffset>
       <JapaneseText>かの者、触れ合いを求める。</JapaneseText>
-      <EnglishText>You, who searches for interactions.</EnglishText>
+      <EnglishText>The one who is searching
+for interactions.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -202,8 +204,8 @@ Burned to death by a fire.</EnglishText>
     <Entry>
       <PointerOffset>1095</PointerOffset>
       <JapaneseText>かの者、故郷を求める。</JapaneseText>
-      <EnglishText>You, who searches for your
-home town.</EnglishText>
+      <EnglishText>The one who is searching
+for their home town.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -215,7 +217,8 @@ home town.</EnglishText>
     <Entry>
       <PointerOffset>1055</PointerOffset>
       <JapaneseText>かの者、両親を求める。</JapaneseText>
-      <EnglishText>You, who searches for your parents.</EnglishText>
+      <EnglishText>The one who is searching
+for their parents.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -227,7 +230,8 @@ home town.</EnglishText>
     <Entry>
       <PointerOffset>1015</PointerOffset>
       <JapaneseText>かの者、食べ物を求める。</JapaneseText>
-      <EnglishText>You, who searches for food.</EnglishText>
+      <EnglishText>The one who is searching
+for food.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>

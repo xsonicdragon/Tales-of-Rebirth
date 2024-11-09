@@ -67,7 +67,7 @@
     <Entry>
       <PointerOffset>2896</PointerOffset>
       <JapaneseText>扉が閉まっている……</JapaneseText>
-      <EnglishText>The gate is closed...</EnglishText>
+      <EnglishText>The gate is firmly shut...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -77,9 +77,9 @@
       <PointerOffset>2927</PointerOffset>
       <JapaneseText>きっとこの部屋の中に扉を開けるための
 答えがあるはずです。</JapaneseText>
-      <EnglishText>The answer to open the
-gate has to be inside
-this room.</EnglishText>
+      <EnglishText>The answer to open
+the gate must be
+within this room.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -90,13 +90,13 @@ this room.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;Green&gt;タイミングを見計らい、
 『フォルスボタン（&lt;icon:32&gt;ボタン）』を
 入力し、水の柱を凍らせましょう。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;Green&gt;As determined by gauging,
-press the Force button &lt;icon:32&gt;
-to freeze a pillar of water.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;&lt;Green&gt;Time your use of the Force
+button &lt;icon:32&gt; correctly to
+freeze the pillars of water.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
