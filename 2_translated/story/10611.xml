@@ -138,7 +138,7 @@ things to their room...</EnglishText>
       <EnglishText>Dad's not been doing so good
 lately. He used to love his job,
 but these days it's like he'd
-rather do anything else...</EnglishText>
+rather be doing anything else...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
@@ -157,8 +157,8 @@ rather do anything else...</EnglishText>
       <PointerOffset>2947</PointerOffset>
       <JapaneseText>ねえ、このゴロゴロは、
 どこから聞こえて来るのかな？</JapaneseText>
-      <EnglishText>Hey! Where'd that
-shaking come from?</EnglishText>
+      <EnglishText>Hey, do you know where this
+rumbling noise is coming from?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>10</Id>
@@ -168,8 +168,8 @@ shaking come from?</EnglishText>
       <PointerOffset>2969</PointerOffset>
       <JapaneseText>ボク、蒼獣様の鳴き声だと
 思うんだけど……違うかな？</JapaneseText>
-      <EnglishText>I thought it was the Azure
-Beast's roar. Was I wrong?</EnglishText>
+      <EnglishText>I think it's the Azure Beast's
+roar... Do you think so too?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>11</Id>
@@ -218,8 +218,8 @@ or we might be doomed!</EnglishText>
       <JapaneseText>だから、カイリツは
 気にしなくていいんだってさ。
 </JapaneseText>
-      <EnglishText>So those Commandments
-don't really matter to me.</EnglishText>
+      <EnglishText>So those commandments
+don't mean much to me.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -256,8 +256,9 @@ with everyone.</EnglishText>
       <PointerOffset>715</PointerOffset>
       <JapaneseText>私はここで静かに
 本でも読みながら祈るさ……</JapaneseText>
-      <EnglishText>I pray while reading my book
-in the peace and quiet here.</EnglishText>
+      <EnglishText>I'd rather pray while reading
+my book in peace and quiet,
+though...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -269,8 +270,8 @@ in the peace and quiet here.</EnglishText>
 荷物の中だな……
 チョット待って……</JapaneseText>
       <EnglishText>An Adventure Book!?
-In my luggage...?
-H-Hey, wait a minute...</EnglishText>
+I have it in my luggage...
+Give me a moment...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -280,8 +281,8 @@ H-Hey, wait a minute...</EnglishText>
       <PointerOffset>1260</PointerOffset>
       <JapaneseText>すっかり忘れてた……
 ……どうぞ……</JapaneseText>
-      <EnglishText>Please. I beg you,
-forget about this!</EnglishText>
+      <EnglishText>I totally forgot about it...
+Here you go...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
@@ -300,8 +301,8 @@ forget about this!</EnglishText>
       <PointerOffset>1838</PointerOffset>
       <JapaneseText>お客さん、よくヒューマと
 一緒にいられるね。</JapaneseText>
-      <EnglishText>Good sir, you certainly
-are around Huma a lot.</EnglishText>
+      <EnglishText>Good sir, you're traveling
+with a lot of Huma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
@@ -337,12 +338,12 @@ the Commandments.</EnglishText>
       <PointerOffset>2651</PointerOffset>
       <JapaneseText>街の人々はあんまり
 いい顔しないけどね……</JapaneseText>
-      <EnglishText>The townspeople don't
-look too happy, though...</EnglishText>
+      <EnglishText>The townsfolk aren't too happy
+about that, though...</EnglishText>
       <Notes>maybe more like: "The townspeople don't seem too happy about that, though", if it's referring to the prior sentence. -dragon</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>1911</PointerOffset>
@@ -352,7 +353,7 @@ look too happy, though...</EnglishText>
 </JapaneseText>
       <EnglishText>Huma... Huma! Just the
 sight of you makes me
-so mad I shake!</EnglishText>
+shake with rage!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -373,9 +374,9 @@ so mad I shake!</EnglishText>
       <JapaneseText>ヒューマどもが聖殿を独占しようとして
 ガジュマを港側へ追い出したんだ！</JapaneseText>
       <EnglishText>Those Huma! They wanted the
-shrine all to themselves, so
+sanctuary all to themselves, so
 they kicked out all the Gajuma
-and sent us to the harbor!</EnglishText>
+and sent them to the harbor!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -385,7 +386,7 @@ and sent us to the harbor!</EnglishText>
       <PointerOffset>2027</PointerOffset>
       <JapaneseText>こんな事が許されていいのかね!?</JapaneseText>
       <EnglishText>How could something
-like this be allowed!?</EnglishText>
+like that be allowed!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -398,9 +399,9 @@ like this be allowed!?</EnglishText>
 おまえらは聖殿に閉じこもってろ！
 </JapaneseText>
       <EnglishText>What could a Huma want here
-in the harbor!? You're the ones
-who forced us out here! Go shut
-yourselves in at the shrine!</EnglishText>
+in the harbor!? Didn't you force
+all the Gajuma down here? Go
+lock yourself up in the sanctuary!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
@@ -412,7 +413,7 @@ yourselves in at the shrine!</EnglishText>
 聖殿へも入れるように
 なったみたいだよ。</JapaneseText>
       <EnglishText>I guess we can use the lift
-and go to the shrine again.</EnglishText>
+and go to the sanctuary again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -445,9 +446,9 @@ over others all the time...!</EnglishText>
       <JapaneseText>ヘンな音がずっと聞こえてますけど、
 私には関係ないよ……
 </JapaneseText>
-      <EnglishText>I did hear a pretty strange
-noise, but eh, it's got
-nothin' to do with me...</EnglishText>
+      <EnglishText>I'm hearing that strange
+noise, but eh, it has
+nothing to do with me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -458,8 +459,8 @@ nothin' to do with me...</EnglishText>
       <JapaneseText>仕事をやるだけ……
 ガジュマには肉体労働しか
 回って来ないんだからね……</JapaneseText>
-      <EnglishText>I'll work, but... All that
-they'll let a Gajuma do
+      <EnglishText>I'll keep working, but...
+All they let Gajuma do
 is physical labor...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -471,9 +472,9 @@ is physical labor...</EnglishText>
       <JapaneseText>なんだよ……
 肉体労働のガジュマを
 笑いに来たのかよ？</JapaneseText>
-      <EnglishText>What, did you come to laugh
-at me? A Gajuma who's only
-good for labor?</EnglishText>
+      <EnglishText>What, have you come to laugh
+at a Gajuma who's only good
+for physical labor?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>36</Id>
@@ -512,7 +513,8 @@ than us Gajuma!</EnglishText>
 客室係のように体力を使う仕事しか
 回って来ないんだよ……</JapaneseText>
       <EnglishText>That's why they only give us
-physical labor jobs like this one...</EnglishText>
+jobs involving physical labor...
+Like being a bellhop...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
@@ -523,9 +525,9 @@ physical labor jobs like this one...</EnglishText>
       <JapaneseText>なんだよ……
 肉体労働のガジュマを
 笑いに来たのかよ？</JapaneseText>
-      <EnglishText>What, did you come to laugh
-at me? A Gajuma who's only
-good for labor?</EnglishText>
+      <EnglishText>What, have you come to laugh
+at a Gajuma who's only good
+for physical labor?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
@@ -536,9 +538,9 @@ good for labor?</EnglishText>
       <JapaneseText>……今に始まった事じゃないか。
 昔からガジュマはバカにされて
 生きて来たんだよな……</JapaneseText>
-      <EnglishText>...Yeah, it's no recent thing.
-Gajuma have basically existed
-to be ridiculed from the start.</EnglishText>
+      <EnglishText>...It's nothing new. Gajuma
+have been ridiculed since
+forever...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
@@ -552,7 +554,7 @@ to be ridiculed from the start.</EnglishText>
       <EnglishText>For the sake of peace across the
 land, and for the sake of all
 Huma and Gajuma coexisting...</EnglishText>
-      <Notes/>
+      <Notes>This line goes with the first two lines but its all the way down here</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <Status>Proofreading</Status>
@@ -565,7 +567,7 @@ Huma and Gajuma coexisting...</EnglishText>
 </JapaneseText>
       <EnglishText>My son and I moved here
 from Sunnytown. We work
-here as attendants, now.</EnglishText>
+here as bellhops, now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>43</Id>
@@ -590,7 +592,7 @@ Azure Beast's commandments.</EnglishText>
 仕事は手際よく、美しく、手抜きなく。
 誇りを持ってやってるよ。
 </JapaneseText>
-      <EnglishText>My son and I work as attendants.
+      <EnglishText>My son and I work as bellhops.
 We do our job well, keep things
 clean, and spare no detail.
 I'm quite proud!</EnglishText>
@@ -602,8 +604,7 @@ I'm quite proud!</EnglishText>
     <Entry>
       <PointerOffset>1716</PointerOffset>
       <JapaneseText>この前はお世話様……</JapaneseText>
-      <EnglishText>Thank you for what you did.
-We'll never forget it...</EnglishText>
+      <EnglishText>Thank you for everything...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
@@ -615,8 +616,9 @@ We'll never forget it...</EnglishText>
 読んできかせてあげたいが
 どんなものが良いのやら……</JapaneseText>
       <EnglishText>I want to read my son poetry to
-prepare him for school, but I'm
-not sure where to start, exactly...</EnglishText>
+cultivate his love of the arts, but
+I'm not sure what would be good
+to read to him...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>47</Id>
@@ -626,8 +628,9 @@ not sure where to start, exactly...</EnglishText>
       <PointerOffset>1331</PointerOffset>
       <JapaneseText>何かおすすめの詩集は
 ないか……？</JapaneseText>
-      <EnglishText>I don't guess you've got a Poetry
-Book to recommend, do you?</EnglishText>
+      <EnglishText>You wouldn't happen to have
+any Poetry Books you'd
+recommend, would you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
@@ -768,8 +771,8 @@ a book from some Huma!</EnglishText>
       <JapaneseText>……あんたらヒューマには
 借りは作らない。
 詩集なんか、いらないよ。</JapaneseText>
-      <EnglishText>...I'm not owing anything
-to a Huma. I don't need
+      <EnglishText>...I'm not borrowing anything
+from a Huma. I don't need
 your Poetry Book!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -790,8 +793,8 @@ your Poetry Book!</EnglishText>
       <JapaneseText>あんたらヒューマには
 借りは作らない！
 詩集なんか、いらないよ!!</JapaneseText>
-      <EnglishText>I'm not owing anything
-to a Huma! I don't need
+      <EnglishText>I'm not borrowing anything
+from a Huma! I don't need
 your Poetry Book!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -824,10 +827,10 @@ No</EnglishText>
 この街の信仰の対象である
 蒼獣様が描かれている。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;-Azure Beast Statue-
-What appear to be letters at a glance
-seem to instead be images of this town's
-object of worship, the Azure Beast.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Azure Beast Painting -
+What appear to be letters at a glance are
+instead a depiction of the Azure Beast,
+the object of worship in Babilograd.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
@@ -841,14 +844,13 @@ object of worship, the Azure Beast.</EnglishText>
       <JapaneseText>&lt;speed:0&gt;『お客さま用引き出し・二段目』
 ご自由にお使いください。
 使い方はあなた次第。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Customer Drawer, First Level -
+      <EnglishText>&lt;speed:0&gt;- Customer Cabinet Bottom Drawer  -
 Please feel free to use
 this as you see fit.</EnglishText>
-      <Notes>二段目- nidanme - second stage? Not 100% on this one. -tl goodguy?
--note edited by dragon</Notes>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>580</PointerOffset>
@@ -856,14 +858,14 @@ this as you see fit.</EnglishText>
 潮騒ティーセット（無料）。
 当地特産のジャスミンティーと
 お茶受けのドライフルーツをどうぞ。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Customer Drawer, Second Level -
+      <EnglishText>&lt;speed:0&gt;- Customer Cabinet Top Drawer -
 Sea Breeze Tea Set (Complimentary).
 Please help yourself to locally sourced
 Jasmine Tea and dried fruits.</EnglishText>
       <Notes>一段目- ichidanme - first stage? Not 100% on this one. -tl goodguy</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>607</PointerOffset>
@@ -871,16 +873,14 @@ Jasmine Tea and dried fruits.</EnglishText>
 当地特産のバビロ焼の陶器です。
 いいお値段ですから、割らないよう
 優しく扱ってください。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Cookpot and Cup for Customers -
-Pottery made using this region's 
-special traditional method.
-It's very expensive, so please
-treat it with care.</EnglishText>
-      <Notes>バビロ焼 -Babiloyaki  
-Guess the pottery making method is called "babiloyaki" after part of the town name and the word for frying/baking. Charming, but I couldn't quite fit it in here without it sounding awkward. -tl goodguy</Notes>
+      <EnglishText>&lt;speed:0&gt;- Pot and Cup for Customers -
+These are Babilo-porcelain potteryware.
+They are very expensive, so please
+handle with care.</EnglishText>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

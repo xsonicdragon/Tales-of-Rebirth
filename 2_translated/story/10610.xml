@@ -148,7 +148,7 @@ one another...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3661</PointerOffset>
@@ -188,7 +188,7 @@ It's rough...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3761</PointerOffset>
@@ -200,7 +200,7 @@ we will surely face His wrath...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3783</PointerOffset>
@@ -214,7 +214,7 @@ sanctuary every day!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3833</PointerOffset>
@@ -268,7 +268,7 @@ be just fine here!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3966</PointerOffset>
@@ -303,9 +303,9 @@ like this...</EnglishText>
       <JapaneseText>落ち着いたら、蒼の聖殿に行って
 お礼をしなくちゃ……
 </JapaneseText>
-      <EnglishText>If things calm down, I should
-go give thanks at the Azure
-Sanctuary...</EnglishText>
+      <EnglishText>When things have calmed down,
+I need to go give thanks at the
+Azure Sanctuary.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -317,9 +317,9 @@ Sanctuary...</EnglishText>
 生のままでも食べられるし、
 焼いてもおいしいわよ。</JapaneseText>
       <EnglishText>Of course our harbor has plenty
-of seafood. While you could eat
-it raw, it's pretty good grilled,
-too!</EnglishText>
+of seafood. While you can eat
+it raw, it tastes pretty good
+grilled as well!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -1165,7 +1165,7 @@ because he was understaffed...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>103</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>4285</PointerOffset>
@@ -1180,15 +1180,15 @@ money...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>104</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>4307</PointerOffset>
       <JapaneseText>ヒューマなんて、
 信用するもんじゃないね。
 あ、あんたもヒューマか……</JapaneseText>
-      <EnglishText>Never thought I'd trust a Huma.
-Oh, you all are Huma too, huh...</EnglishText>
+      <EnglishText>You can't trust Huma... Ah,
+you guys are Huma, too...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>105</Id>
@@ -1209,7 +1209,7 @@ Oh, you all are Huma too, huh...</EnglishText>
     <Entry>
       <PointerOffset>3341</PointerOffset>
       <JapaneseText>ゆ、揺れてるわ……</JapaneseText>
-      <EnglishText>Th-That quake was quite scary...</EnglishText>
+      <EnglishText>Th-The ground is shaking...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>107</Id>
@@ -1374,9 +1374,9 @@ If the Gajuma come here, then...</EnglishText>
       <JapaneseText>とは言え、ウチは宿屋だし、
 客室係もガジュマだし、
 商売は割り切ってやってるよ。</JapaneseText>
-      <EnglishText>Then again, since we're an inn,
-and the steward's also a Gajuma,
-we'll do our business separately.</EnglishText>
+      <EnglishText>Though we are an inn and we
+do have Gajuma staying here,
+so I have to be practical.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>122</Id>
@@ -1400,8 +1400,8 @@ Th-thank you so much...!</EnglishText>
       <JapaneseText>イロイロあったけどさ、
 やっぱりここがいいよ。
 </JapaneseText>
-      <EnglishText>I've been all over the world,
-but nothin' beats this place.</EnglishText>
+      <EnglishText>A lot has happened, but
+nothing beats being here.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>124</Id>
@@ -1438,8 +1438,8 @@ Th-thank you so much...!</EnglishText>
       <JapaneseText>イロイロあったけどさ、
 やっぱりここがいいよ。
 </JapaneseText>
-      <EnglishText>I've been all over the world,
-but nothin' beats this place.</EnglishText>
+      <EnglishText>A lot has happened, but
+nothing beats being here.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>127</Id>
@@ -1463,8 +1463,8 @@ can make things work...</EnglishText>
       <JapaneseText>イロイロあったけどさ、
 やっぱりここがいいよ。
 </JapaneseText>
-      <EnglishText>I've been all over the world,
-but nothin' beats this place.</EnglishText>
+      <EnglishText>A lot has happened, but
+nothing beats being here.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>129</Id>
@@ -1488,9 +1488,10 @@ can make things work...</EnglishText>
       <JapaneseText>この地鳴りのせいで、
 定期便が何本も欠航してるんだ。
 売上が落ちるばかりさ……</JapaneseText>
-      <EnglishText>Because of that quake, I
-had to close up for a bit.
-I lost so much business...!</EnglishText>
+      <EnglishText>I'm having to close up for
+a bit due to this quake...
+I'm losing out on so much
+business!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>131</Id>
@@ -1503,9 +1504,9 @@ I lost so much business...!</EnglishText>
 い、いや商売抜きだよ……
 </JapaneseText>
       <EnglishText>Razilda's been destroyed?
-That means refugees might come
-here... N-No! I shouldn't think
-of profits now!</EnglishText>
+Refugees might have to stay
+here then... N-No, I shouldn't be
+thinking of profits right now...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>132</Id>
@@ -1532,10 +1533,10 @@ Whatever it takes to help!</EnglishText>
 世界を救ってくださいって、
 蒼獣様に祈ってるんだぜ。
 </JapaneseText>
-      <EnglishText>Sure, I'm running a business here,
-but my heart wants you to save
-the world. I pray that the Azure
-Beast protects you.</EnglishText>
+      <EnglishText>Sure, I'm running a business
+here, but I'm praying with all
+my heart that the Azure Beast
+saves the world.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>134</Id>
@@ -1547,9 +1548,10 @@ Beast protects you.</EnglishText>
 蒼獣様を礼拝に来るぜ……
 ウチの宿も大繁盛……
 </JapaneseText>
-      <EnglishText>If peace comes back, people will
-come pray to the Azure Beast!
-My business will thrive!</EnglishText>
+      <EnglishText>When things are peaceful
+again, everyone will come
+pray to the Azure Beast...
+My business will thrive...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>135</Id>
@@ -1559,8 +1561,9 @@ My business will thrive!</EnglishText>
       <PointerOffset>3242</PointerOffset>
       <JapaneseText>ここはバビログラード。
 山の上もバビログラードだよ。</JapaneseText>
-      <EnglishText>This is Babilograd. The city up
-the mountain's called that, too.</EnglishText>
+      <EnglishText>This is Babilograd. The
+mountaintop is also part
+of Babilograd.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>136</Id>
@@ -1573,7 +1576,7 @@ the mountain's called that, too.</EnglishText>
 生活しているんだよ。</JapaneseText>
       <EnglishText>Those of us here by the
 sea, as well as those living
-on the mountain all follow
+on the mountain, all follow
 the commandments of the
 Azure Beast.</EnglishText>
       <Notes/>
@@ -1592,11 +1595,11 @@ Azure Beast.</EnglishText>
 キレイに掃除がしてあり清潔。
 台所はこうありたい。
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- The Grocer's Counter -
-The owner runs both an inn
-and a grocer. The kitchen has
-been cleaned perfectly. Exactly
-as a kitchen ought to be.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- The Grocer's Kitchen Counter -
+In addition to selling ingredients,
+they also prepare meals for guests
+who stay at the inn here. Perfectly
+clean, as any kitchen ought to be.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>138</Id>
@@ -1615,10 +1618,9 @@ as a kitchen ought to be.</EnglishText>
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt; -To those praying to the Azure Beast-
 The Azure Beast favors those who bathe.
-When you visit the sanctuary, your prayer
-is sure to be answered if you purify your
-body by cleansing it in the holy waters.
-</EnglishText>
+Prior to visiting the sanctuary, purify
+your body by taking a bath. In doing
+so, your prayers are sure to be answered.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>139</Id>
@@ -1633,12 +1635,14 @@ body by cleansing it in the holy waters.
 サギ師・ガンコーキ（39才）。
 変装して来て宿泊、豪遊し、支払い前に
 再び別人に変装して逃げて行くのが手口。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;- Wanted! Master Sagi -
-Master Sagi Gankouki (Age 39).
-Wanted for dining and dashing.
-Spends extravagantly then passes
-the bill on to another customer.</EnglishText>
-      <Notes>This is a wanted poster, サギ師 - "Master Sagi"? I don't note any character names in the terminology page named "Sagi."  師 seems to mean "master" or "teacher".</Notes>
+      <EnglishText>&lt;speed:0&gt;- Wanted Poster -
+Conman Gankouki (Age 39).
+His modus operandi is to disguise himself
+so that he may stay at the inn and spend
+extravagant amounts of money, then disguise
+himself as someone else so that he can skip
+out on paying the bill.</EnglishText>
+      <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>140</Id>
       <Status>Proofreading</Status>
