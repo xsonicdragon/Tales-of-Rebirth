@@ -84,7 +84,7 @@
     </Entry>
     <Entry>
       <PointerOffset>601,565,529,493</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>9</Id>
@@ -127,7 +127,7 @@
 ヒューマとガジュマなのに、
 一緒って事は……</JapaneseText>
       <EnglishText>In spite of being of different
-races, you're travelling together...</EnglishText>
+races, you're traveling together...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -312,8 +312,8 @@ heart-to-heart once.</EnglishText>
 ずっとひとりで、国じゅうを
 旅していたんですって……</JapaneseText>
       <EnglishText>After her husband passed
-away, Nayla roamed the
-kingdom on her own...</EnglishText>
+away, Nayla roamed The
+Kingdom on her own...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
@@ -726,7 +726,7 @@ that old lady over there.</EnglishText>
       <EnglishText>As a result, we ended up in a forbidden
 relationship and eloped...and I ended up
 deserting the army. But in any case, it's
-been long past the statute of limitations</EnglishText>
+been long past the statute of limitations.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>52</Id>
@@ -795,8 +795,8 @@ No</EnglishText>
 掃除をするための道具。
 全世界共通のごくありふれたもの。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Brooms and Dustbins -
-Tools that are used for cleaning. It's a
-common tool used all over the world.</EnglishText>
+Tools that are used for cleaning. they are
+common tools used all over the world.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>57</Id>
@@ -815,7 +815,7 @@ common tool used all over the world.</EnglishText>
       <PointerOffset>684</PointerOffset>
       <JapaneseText>掃除ならおれに
 まかせとけってんだ！</JapaneseText>
-      <EnglishText>When it comes keeping
+      <EnglishText>When it comes to keeping
 floors dust free, you
 can count on me!</EnglishText>
       <Notes/>

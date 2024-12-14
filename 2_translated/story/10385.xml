@@ -84,7 +84,7 @@
     </Entry>
     <Entry>
       <PointerOffset>1545,1509</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>9</Id>
@@ -478,9 +478,8 @@ some before I run out of stock!</EnglishText>
 ちゃんと仕入れに出かけてるから、
 商品は古くはないよ。
 </JapaneseText>
-      <EnglishText>Look, you might think I'm
-here all the time, but I'm
-always leaving to restock.
+      <EnglishText>Look, you might think I'm here all the
+time, but I'm always leaving to restock.
 My products are always new!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
@@ -536,8 +535,8 @@ don't want to die yet!</EnglishText>
       <JapaneseText>奥のテントにいたヒューマ、
 冒険家だったんですってね。</JapaneseText>
       <EnglishText>Apparently, the Huma who
-lives in the tent over
-there is an adventurer.</EnglishText>
+lives in the tent over there
+is an adventurer.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
@@ -570,8 +569,8 @@ I'm thinking here.</EnglishText>
       <PointerOffset>2607</PointerOffset>
       <JapaneseText>うるさいな。
 アッチ行って！</JapaneseText>
-      <EnglishText>You're annoying!
-Go somewhere else!</EnglishText>
+      <EnglishText>You're annoying! Go
+somewhere else!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
@@ -590,8 +589,8 @@ Go somewhere else!</EnglishText>
       <PointerOffset>2707</PointerOffset>
       <JapaneseText>冷たくして
 ゴメンなさい……</JapaneseText>
-      <EnglishText>I-I'm sorry that I
-was so cold to you...</EnglishText>
+      <EnglishText>I-I'm sorry that I was
+so cold to you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>44</Id>
@@ -668,8 +667,9 @@ got to hurry and get water...!</EnglishText>
       <PointerOffset>2998</PointerOffset>
       <JapaneseText>今、国中で天変地異が
 起こってるのよね……？</JapaneseText>
-      <EnglishText>There's disasters happening all over
-the country right now, right...?</EnglishText>
+      <EnglishText>There are disasters happening
+all over the country right now,
+right...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>50</Id>
@@ -777,7 +777,8 @@ fetch water.</EnglishText>
       <JapaneseText>その言い方は何だ!!
 病人がいるんだぞ！</JapaneseText>
       <EnglishText>What's with your tone!?
-Someone is sick, you know!</EnglishText>
+Someone is sick, you
+know!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>59</Id>
@@ -935,7 +936,7 @@ chasing away the fish!</EnglishText>
       <JapaneseText>あんたもガジュマなら、
 ヒューマなんかと歩くな。</JapaneseText>
       <EnglishText>Listen here, if you're a Gajuma,
-then you better stop travelling
+then you better stop traveling
 with Huma.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>

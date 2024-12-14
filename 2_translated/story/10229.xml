@@ -604,7 +604,7 @@ No</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>7084</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -745,8 +745,7 @@ No</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>7159</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48F80C80&gt;&lt;unk18:48FC0C80&gt;&lt;unk18:48000D80&gt;&lt;unk18:48040D80&gt;&lt;unk18:48080D80&gt;&lt;unk18:480C0D80&gt;
-</JapaneseText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48F80C80&gt;&lt;unk18:48FC0C80&gt;&lt;unk18:48000D80&gt;&lt;unk18:48040D80&gt;&lt;unk18:48080D80&gt;&lt;unk18:480C0D80&gt;</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48F80C80&gt;&lt;unk18:48FC0C80&gt;&lt;unk18:48000D80&gt;&lt;unk18:48040D80&gt;&lt;unk18:48080D80&gt;&lt;unk18:480C0D80&gt;</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -758,8 +757,7 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;馬車で&lt;unk18:48F40C28B8048880&gt;に移動します。
 料金&lt;nmb:12C&gt;ガルド
 　はい　
-　いいえ　
-</JapaneseText>
+　いいえ　</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;The fare to &lt;unk18:48F40C28B8048880&gt;is &lt;nmb:12C&gt; Gald.
 Embark
 Stay</EnglishText>
@@ -861,9 +859,8 @@ like this..! Oh, what to do...</EnglishText>
       <PointerOffset>3555</PointerOffset>
       <JapaneseText>ホント、どうしましょ！
 どうすればいいの!?</JapaneseText>
-      <EnglishText>Really, what should
-I do! What would
-be good to do!?</EnglishText>
+      <EnglishText>Really, what should I do?!
+What good CAN I do?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
@@ -873,8 +870,8 @@ be good to do!?</EnglishText>
       <PointerOffset>3577</PointerOffset>
       <JapaneseText>……私が騒いでも
 どうしようもないんだけど……</JapaneseText>
-      <EnglishText>...Even though yelling about
-it isn't going to help...</EnglishText>
+      <EnglishText>...Although yelling about it
+isn't going to help, I guess...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
@@ -1033,7 +1030,7 @@ Poor Claire!</EnglishText>
       <JapaneseText>クレアが連れ去られたのも……
 &lt;Veigue&gt;のせいだって……</JapaneseText>
       <EnglishText>Claire was kidnapped...
-And it's &lt;Veigue&gt;'s fault...</EnglishText>
+And it's your fault...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>81</Id>
@@ -1043,7 +1040,7 @@ And it's &lt;Veigue&gt;'s fault...</EnglishText>
       <PointerOffset>2807</PointerOffset>
       <JapaneseText>いや、だって……
 母ちゃんが……</JapaneseText>
-      <EnglishText>No, well... That's what
+      <EnglishText>Erm, well... That's what
 my mom said...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>

@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <PointerOffset>674,638,602,515,566</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
@@ -68,9 +68,9 @@
       <PointerOffset>757</PointerOffset>
       <JapaneseText>ここしばらく聖殿には
 入れてもらってないんだよ。</JapaneseText>
-      <EnglishText>Oh dear, it seems like I
-won't be able to enter the
-Sanctuary any time soon.</EnglishText>
+      <EnglishText>Oh dear, it seems like I won't
+be able to enter the Sanctuary
+any time soon.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>4</Id>
@@ -94,7 +94,7 @@ pray about...</EnglishText>
       <JapaneseText>祭司様は青い空が愛しい
 と言ってたねえ……</JapaneseText>
       <EnglishText>The priest said that the
-blue sky is beloved...</EnglishText>
+azure sky is beloved...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>

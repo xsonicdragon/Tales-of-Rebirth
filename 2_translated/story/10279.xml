@@ -167,32 +167,32 @@
     </Entry>
     <Entry>
       <PointerOffset>6516</PointerOffset>
-      <JapaneseText>&lt;speed:00&gt;&lt;scale:0190&gt;3</JapaneseText>
-      <EnglishText>&lt;speed:00&gt;&lt;scale:0190&gt;3</EnglishText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;3</JapaneseText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;3</EnglishText>
       <Notes>Minigame countdown.</Notes>
       <Id>4</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>6523</PointerOffset>
-      <JapaneseText>&lt;speed:00&gt;&lt;scale:0190&gt;2</JapaneseText>
-      <EnglishText>&lt;speed:00&gt;&lt;scale:0190&gt;2</EnglishText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;2</JapaneseText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;2</EnglishText>
       <Notes>Minigame countdown.</Notes>
       <Id>5</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>6530</PointerOffset>
-      <JapaneseText>&lt;speed:00&gt;&lt;scale:0190&gt;1</JapaneseText>
-      <EnglishText>&lt;speed:00&gt;&lt;scale:0190&gt;1</EnglishText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;1</JapaneseText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;1</EnglishText>
       <Notes>Minigame countdown.</Notes>
       <Id>6</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>6537</PointerOffset>
-      <JapaneseText>&lt;speed:00&gt;&lt;scale:0190&gt;START!!</JapaneseText>
-      <EnglishText>&lt;speed:00&gt;&lt;scale:0190&gt;START!</EnglishText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;START!!</JapaneseText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;START!</EnglishText>
       <Notes>Minigame countdown.</Notes>
       <Id>7</Id>
       <Status>Done</Status>
@@ -284,7 +284,7 @@ drink somewhere else!</EnglishText>
     <Entry>
       <PointerOffset>2772</PointerOffset>
       <JapaneseText>おうおう、待ちかねたぜ♪</JapaneseText>
-      <EnglishText>Oh, I can't wait to drink it!♪</EnglishText>
+      <EnglishText>Oh, I can't wait to drink it♪</EnglishText>
       <Notes>Client 1 - line when you give them their drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -354,7 +354,7 @@ drink!</EnglishText>
     <Entry>
       <PointerOffset>2863</PointerOffset>
       <JapaneseText>お、きたきた♪</JapaneseText>
-      <EnglishText>Oh, here we go! ♪</EnglishText>
+      <EnglishText>Oh, thank you♪</EnglishText>
       <Notes>Client 2 - line when you give them their drink.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>24</Id>
@@ -451,7 +451,7 @@ for free? Thank you.</EnglishText>
     <Entry>
       <PointerOffset>3001</PointerOffset>
       <JapaneseText>今日は飲みたい気分なの。</JapaneseText>
-      <EnglishText>I'd like to drink something &lt;Italics&gt;today&lt;/Italics&gt;.</EnglishText>
+      <EnglishText>I'd like to drink something &lt;Italic&gt;today&lt;/Italic&gt;.</EnglishText>
       <Notes>Client 4 - opening line 2.</Notes>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -546,7 +546,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>4668</PointerOffset>
       <JapaneseText>はーい♪</JapaneseText>
-      <EnglishText>You got it! ♪</EnglishText>
+      <EnglishText>You got it♪</EnglishText>
       <Notes>Mao's line to acknowledge the order.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>44</Id>
@@ -573,7 +573,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3135</PointerOffset>
       <JapaneseText>はい。お待たせ♪</JapaneseText>
-      <EnglishText>Here's your order!♪</EnglishText>
+      <EnglishText>Here's your order♪</EnglishText>
       <Notes>Mao's line when giving the order.</Notes>
       <SpeakerId>9</SpeakerId>
       <Id>47</Id>
@@ -645,7 +645,7 @@ You have my thanks.</EnglishText>
     <Entry>
       <PointerOffset>3209</PointerOffset>
       <JapaneseText>お待たせ致しました♪</JapaneseText>
-      <EnglishText>Thank you for being patient!♪</EnglishText>
+      <EnglishText>Thank you for being patient♪</EnglishText>
       <Notes>Annie's line when giving the order.</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>55</Id>
@@ -725,8 +725,8 @@ You have my thanks.</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>4276</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;&lt;unk13:3805E080&gt;&lt;unk17:3805B4C83C8A80&gt;</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;&lt;unk13:3805E080&gt;&lt;unk17:3805B4C83C8A80&gt;</EnglishText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:190&gt;&lt;unk13:38E00580&gt;&lt;unk17:38B405C83C8A80&gt;</JapaneseText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:190&gt;&lt;unk13:38E00580&gt;&lt;unk17:38B405C83C8A80&gt;</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>64</Id>
@@ -1138,7 +1138,7 @@ see how he's doing...</EnglishText>
       <PointerOffset>6009</PointerOffset>
       <JapaneseText>ちょっと酒の在庫を切らしちゃって、
 仕入れに行かなきゃならないんだ。</JapaneseText>
-      <EnglishText>I'm running low on liquour,
+      <EnglishText>I'm running low on liquor,
 so I need to go out and
 fetch some more.</EnglishText>
       <Notes/>
@@ -1467,8 +1467,8 @@ No</EnglishText>
       <PointerOffset>2409</PointerOffset>
       <JapaneseText>おいしい!!
 おいしいヨ!!</JapaneseText>
-      <EnglishText>This is so good!
-It's so dang tasty!</EnglishText>
+      <EnglishText>This is so good! It's
+so dang tasty!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>128</Id>
@@ -1486,7 +1486,7 @@ It's so dang tasty!</EnglishText>
     <Entry>
       <PointerOffset>2482</PointerOffset>
       <JapaneseText>おいしいですね♪</JapaneseText>
-      <EnglishText>It tastes delicious!♪</EnglishText>
+      <EnglishText>It's quite delicious indeed~!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>130</Id>
@@ -1507,7 +1507,7 @@ give it five stars!</EnglishText>
       <PointerOffset>2556</PointerOffset>
       <JapaneseText>おいしいわね……
 </JapaneseText>
-      <EnglishText>This tastes delicious... </EnglishText>
+      <EnglishText>That was delicious...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>132</Id>
@@ -1556,9 +1556,9 @@ whenever you like.</EnglishText>
       <PointerOffset>1347</PointerOffset>
       <JapaneseText>ああ、いつぞやは荷物運びして
 もらって世話になったね。</JapaneseText>
-      <EnglishText>Ohh, you were the ones
-who helped me move that
-cargo a while back.</EnglishText>
+      <EnglishText>Ohh, you were the ones who
+helped me move that cargo a
+while back.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>137</Id>
@@ -1605,8 +1605,8 @@ this store...</EnglishText>
       <JapaneseText>お昼時以外は見たとおり
 ガラガラなんだ。
 困った事にね……</JapaneseText>
-      <EnglishText>As you can see, this place is
-a ghosttown outside of lunch
+      <EnglishText>As you can see, this place is a
+ghost town outside of lunch
 time. It's quite a bother...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -1654,9 +1654,9 @@ it looks like you guys are busy...</EnglishText>
       <JapaneseText>今の用事が済んで落ち着いたら
 うちの自慢の「ハンバーグ」を
 食べに来てくれよな！</JapaneseText>
-      <EnglishText>Feel free to come back and
-have some once you've finished
-with your work!</EnglishText>
+      <EnglishText>Feel free to come back and have
+some once you've finished with
+your work!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>145</Id>

@@ -44,7 +44,7 @@
     </Entry>
     <Entry>
       <PointerOffset>1709,1667,1625,1583</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -537,7 +537,7 @@ more than a Huma!</EnglishText>
     <Entry>
       <PointerOffset>1050</PointerOffset>
       <JapaneseText>いつでもおいで。</JapaneseText>
-      <EnglishText>Come back anytime.</EnglishText>
+      <EnglishText>Come back any time.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>

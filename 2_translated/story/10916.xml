@@ -20,7 +20,7 @@
     </Entry>
     <Entry>
       <PointerOffset>1871,1835,1799,1763,1727</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -98,9 +98,9 @@ No</EnglishText>
 　カウンター内に店員がいる時は
 　ご遠慮下さい。」</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Bell -
-There is a note on using the
-bell. "If there is no staff behind
-the counter, please ring the bell
+There is a note on using the bell.
+"If there is no staff behind the
+counter, please ring the bell
 only once. If there is staff
 behind the counter, please do
 not ring the bell."</EnglishText>
@@ -192,7 +192,7 @@ of nostalgia.</EnglishText>
     <Entry>
       <PointerOffset>1082</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~</EnglishText>
+      <EnglishText>Thank you for shopping with us~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -216,7 +216,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1168</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~</EnglishText>
+      <EnglishText>Thank you for shopping with us~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -225,7 +225,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1209</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~</EnglishText>
+      <EnglishText>Thank you for shopping with us~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -234,7 +234,7 @@ Cancel</EnglishText>
     <Entry>
       <PointerOffset>1250</PointerOffset>
       <JapaneseText>どうもですー。</JapaneseText>
-      <EnglishText>Welcome~</EnglishText>
+      <EnglishText>Thank you for shopping with us~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>

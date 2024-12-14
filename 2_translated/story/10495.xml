@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <PointerOffset>7792</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>12</Id>
@@ -142,8 +142,9 @@
       <JapaneseText>ようやくエトレー橋まで来たか。
 ここを渡れば、ミナールまでは
 東へ一直線だ。</JapaneseText>
-      <EnglishText>We finally made it to Etoray Bridge.
-Once we cross, Minal is directly east.</EnglishText>
+      <EnglishText>We finally made it to the
+Etoray Bridge. Once we
+cross, Minal is directly east.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>3</Id>
@@ -153,7 +154,7 @@ Once we cross, Minal is directly east.</EnglishText>
       <PointerOffset>1483</PointerOffset>
       <VoiceId>31000001</VoiceId>
       <JapaneseText>よし、行こう。</JapaneseText>
-      <EnglishText>Alright, let's go.</EnglishText>
+      <EnglishText>All right, let's go.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -322,7 +323,7 @@ doesn't know.</EnglishText>
 教えてア・ゲ・ル♪
 いいわね、いくわヨ♪</JapaneseText>
       <EnglishText>Listen up boy! Allow us
-to en~ligh~ten you!♪
+to en~ligh~ten you♪
 Alright, let's begin~♪</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
@@ -926,8 +927,8 @@ you're running off to?</EnglishText>
       <JapaneseText>まさか、橋を壊しといて
 逃げるつもりじゃああるめーな？</JapaneseText>
       <EnglishText>Don't tell me, you destroyed
-the bridge and are now trying
-to make a run for it?</EnglishText>
+the bridge and now you're
+trying to make a run for it?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>74</Id>
@@ -940,8 +941,8 @@ to make a run for it?</EnglishText>
 今、修理の道具を取りに行くところ
 だったんですよ……ハハ……ハハハ……</JapaneseText>
       <EnglishText>O-Of course not. We were just
-about to go find some repair
-tools! Aha... Hahaha...</EnglishText>
+on our way to find some tools
+to repair it! Aha... Hahaha...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>75</Id>
@@ -1199,7 +1200,7 @@ your abilities in battle.</EnglishText>
       <EnglishText>&lt;Green&gt;After reading the entry in the
 Battle Book, we recommend that
 you experiment with the various
-configuations with the Force Cube
+configurations of the Force Cube
 in the menu right away.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>

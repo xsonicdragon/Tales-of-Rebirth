@@ -108,7 +108,7 @@
     </Entry>
     <Entry>
       <PointerOffset>3951</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>12</Id>
@@ -1261,8 +1261,8 @@ reflecting on it even more.</EnglishText>
       <PointerOffset>2762</PointerOffset>
       <JapaneseText>ヒューマと一緒にいて、どう？
 あなたは何も感じないの？</JapaneseText>
-      <EnglishText>How is it hanging around with
-a Huma? Do you really think
+      <EnglishText>What's it like hanging around with
+those Huma? Do you really think
 nothing strange of it?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
@@ -1533,8 +1533,8 @@ the &lt;Blue&gt;Sleeping Wings&lt;White&gt;, too!</EnglishText>
       <PointerOffset>2059</PointerOffset>
       <JapaneseText>子供がいなくなったのは、
 &lt;Red&gt;二級民&lt;White&gt;のせいだぜ!?</JapaneseText>
-      <EnglishText>It's all cause of those &lt;Red&gt;Lesser Citizens&lt;White&gt;
-that those kids are gone!</EnglishText>
+      <EnglishText>It's all because of those &lt;Red&gt;Lesser Citizens&lt;White&gt;
+that the kids have disappeared!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>118</Id>
@@ -1547,7 +1547,7 @@ that those kids are gone!</EnglishText>
 たまったもんじゃねえ！</JapaneseText>
       <EnglishText>But then we're the ones who end
 up being held responsible about it
-and we got demoted. I won't take
+and we get demoted. I won't take
 this lying down!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>

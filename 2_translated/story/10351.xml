@@ -60,7 +60,7 @@
     </Entry>
     <Entry>
       <PointerOffset>580,493,544</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -218,7 +218,7 @@ Romance Novel.</EnglishText>
       <PointerOffset>1487</PointerOffset>
       <JapaneseText>おかげで楽しい時間を
 過ごせたわ♪</JapaneseText>
-      <EnglishText>Thank you, I enjoyed it!♪</EnglishText>
+      <EnglishText>Thank you, I enjoyed it♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -242,7 +242,7 @@ finished reading it yet.</EnglishText>
 ありがと♪</JapaneseText>
       <EnglishText>I've been in low spirits lately,
 so this has been a nice change
-of pace. Thanks!♪</EnglishText>
+of pace. Thanks♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
@@ -430,7 +430,8 @@ Huma? Sheesh...</EnglishText>
       <JapaneseText>あいつ……
 いつまで待たせる気だよ！</JapaneseText>
       <EnglishText>How long is that woman
-planning on making me wait!?</EnglishText>
+planning on making me
+wait!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
@@ -479,8 +480,8 @@ No</EnglishText>
       <PointerOffset>2154</PointerOffset>
       <VoiceId>18000002</VoiceId>
       <JapaneseText>わ、私を追ってきた人は……？</JapaneseText>
-      <EnglishText>Wh-What about the
-person chasing me...?</EnglishText>
+      <EnglishText>Wh-What about the person
+chasing me...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>

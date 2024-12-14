@@ -124,7 +124,7 @@
     </Entry>
     <Entry>
       <PointerOffset>437,1078</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>14</Id>
@@ -319,9 +319,9 @@ for a traitor?</EnglishText>
       <VoiceId>1c0000a6</VoiceId>
       <JapaneseText>こんな事をして何になる、ワルトゥ！
 これが国のためになると言うのか!?</JapaneseText>
-      <EnglishText>What do you expect to accomplish, Walto?
-Do you mean to say that
-this is for the kingdom, too!?</EnglishText>
+      <EnglishText>What do you expect to accomplish,
+Walto? Do you mean to say that
+this is for The Kingdom, too!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
@@ -466,11 +466,11 @@ Would you mind leaving us be?</EnglishText>
 我らを倒して彼女たちを助けますか？
 もっとも、ここで戦えば彼女たちは無事では
 済みますまい……動けないのですからね。</JapaneseText>
-      <EnglishText>So then, you think that by defeating
-us that these girls would be saved?
-There is no certainty that they would
-walk away from a battle here
-unharmed... They are immobile, after all.</EnglishText>
+      <EnglishText>So then, you think that by defeating us
+that these girls would be saved? There
+is no certainty that they would walk
+away from a battle here unharmed...
+They are immobile, after all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -963,7 +963,7 @@ Commander.</EnglishText>
 語る事など……</JapaneseText>
       <EnglishText>We may have once fought together
 as brothers in arms, but you no
-longer have any ties to the Kingdom.
+longer have any ties to The Kingdom.
 We have nothing to discuss.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
@@ -1160,8 +1160,8 @@ there as well?</EnglishText>
       <JapaneseText>こいつの……
 &lt;Veigue&gt;の恋……
 もとい、友達なんだ。</JapaneseText>
-      <EnglishText>She's his...
-She's &lt;Veigue&gt;'s girlfr-ah, sorry, friend.</EnglishText>
+      <EnglishText>She's &lt;Veigue&gt;'s girlfr-ah,
+sorry, friend.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>83</Id>
@@ -1257,12 +1257,12 @@ one thing that stuck out to me...</EnglishText>
 ……って。</JapaneseText>
       <EnglishText>When we were at the shrine, I
 heard a voice coming from outside
-saying, " We're running out of time.
+saying, "We're running out of time.
 The full moon is almost upon us."</EnglishText>
       <Notes>moved the quotation mark away from the W on the third line because of kerning issues. do not fix until it has been tested ingame.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>91</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>4358</PointerOffset>
@@ -1308,8 +1308,8 @@ next full moon is on the
       <JapaneseText>&lt;Blue&gt;ゴルドバの日&lt;White&gt;には
 お披露目の儀式があるんだヨ！</JapaneseText>
       <EnglishText>The inauguration ceremony
-will be held on the
-&lt;Blue&gt;Day of Goldba&lt;White&gt;!</EnglishText>
+will be held on the &lt;Blue&gt;Day of
+Goldba&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>95</Id>
@@ -1476,7 +1476,7 @@ the commandments...</EnglishText>
       <PointerOffset>350</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>109</Id>

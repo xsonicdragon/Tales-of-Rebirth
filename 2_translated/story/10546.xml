@@ -100,7 +100,7 @@
     </Entry>
     <Entry>
       <PointerOffset>840,804,768,732,696,660</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>11</Id>
@@ -897,7 +897,7 @@ saved him...</EnglishText>
       <JapaneseText>でも、頭を強く打ったらしくて、
 「ドネル」っていう自分の名前以外の事は
 ほとんど忘れちゃったみたい……</JapaneseText>
-      <EnglishText>But with how hard he got hit 
+      <EnglishText>...But with how hard he got hit 
 in the head, he forgot everything 
 aside from his name, "Donel."</EnglishText>
       <Notes/>
@@ -1053,7 +1053,7 @@ No</EnglishText>
 貼られている。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;- Three Boxes -
 Boxes packed with precious metals to be
-sold at at the auction. They are worth
+sold at the auction. They are worth
 hundreds of millions of Gald on the market.
 There's a yellow tag on it, which indicates
 it is to be sold at the auction.</EnglishText>

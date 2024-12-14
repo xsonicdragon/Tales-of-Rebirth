@@ -100,7 +100,7 @@
     </Entry>
     <Entry>
       <PointerOffset>1359,1622</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>11</Id>
@@ -993,9 +993,10 @@ No</EnglishText>
       <JapaneseText>あっ♪
 おいしそうなものがあるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's something
-tasty over there! Lemme take a
-teeny tiny bite...</EnglishText>
+      <EnglishText>Ooh! Looks like there's
+something tasty here!
+Lemme take a teeny
+tiny bite...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>76</Id>
@@ -1053,7 +1054,7 @@ teeny tiny bite...</EnglishText>
 加えないとな！</JapaneseText>
       <EnglishText>Ooh, this tastes delicious!
 I'll have to add it to my
-repetoire of recipes!</EnglishText>
+repertoire of recipes!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>82</Id>
@@ -1109,8 +1110,8 @@ repetoire of recipes!</EnglishText>
       <PointerOffset>1331</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、勝手に食べるのは
 どうかと思ったので遠慮しておきました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Stealing food is rude, so you 
-refrained from doing so.</EnglishText>
+      <EnglishText>&lt;Green&gt;...But stealing food is rude, so
+you refrained from doing so.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>88</Id>

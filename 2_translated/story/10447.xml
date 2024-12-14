@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <PointerOffset>437,969,1021,869,921</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -137,9 +137,9 @@ brings the people here joy.</EnglishText>
       <PointerOffset>1190</PointerOffset>
       <JapaneseText>祭司様の言葉？
 ……&lt;Cyan&gt;「とし」&lt;White&gt;の事を言ってたかね。</JapaneseText>
-      <EnglishText>You want to know what the
-priest said? It was something
-about a "bee," I think.</EnglishText>
+      <EnglishText>You want to know what the priest
+said? I'm pretty sure it was
+something about &lt;Cyan&gt;love&lt;White&gt;...I think.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>
@@ -319,7 +319,7 @@ the commandments...</EnglishText>
       <PointerOffset>350</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>

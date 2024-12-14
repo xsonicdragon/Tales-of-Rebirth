@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <PointerOffset>425</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -358,7 +358,7 @@ me about it?</EnglishText>
 ……&lt;Cyan&gt;とし&lt;White&gt;がどうとか言っていたね。</JapaneseText>
       <EnglishText>You want to know what the
 priest said? I'm pretty sure
-it was something about &lt;Cyan&gt;bees&lt;White&gt;...</EnglishText>
+it was something about &lt;Cyan&gt;love&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>23</Id>
@@ -492,8 +492,9 @@ about the harbor...</EnglishText>
       <JapaneseText>男は男でもウチの人は別だね。
 家族だからね。
 </JapaneseText>
-      <EnglishText>I can't speak to men aside from my 
-husband. That's because he's family.</EnglishText>
+      <EnglishText>I can't speak to men aside
+from my husband. That's
+because he's family.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -568,7 +569,7 @@ the commandments...</EnglishText>
       <PointerOffset>338</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>41</Id>

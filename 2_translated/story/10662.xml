@@ -52,10 +52,8 @@
     </Entry>
     <Entry>
       <PointerOffset>2459,2493,2527,2877,2911</PointerOffset>
-      <JapaneseText>&lt;unk19:222280&gt;
-</JapaneseText>
-      <EnglishText>&lt;unk19:222280&gt;
-</EnglishText>
+      <JapaneseText>&lt;unk19:222280&gt;</JapaneseText>
+      <EnglishText>&lt;unk19:222280&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -86,7 +84,7 @@
     </Entry>
     <Entry>
       <PointerOffset>2086,2563,2599</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>9</Id>
@@ -239,7 +237,7 @@
       <JapaneseText>そのメモに書いてあるのは
 フォルスを無効化している
 装置の解除方法だな。</JapaneseText>
-      <EnglishText>The memo descibes how
+      <EnglishText>The memo describes how
 to disable the Force
 suppression device.</EnglishText>
       <Notes/>
@@ -481,7 +479,7 @@ in you. I am one of them.</EnglishText>
 進もうとしているような気がします。
 しかし、その流れを止められる者は、
 軍にも、&lt;Blue&gt;王の盾&lt;White&gt;にもいません。</JapaneseText>
-      <EnglishText>I feel as though this kingdom is
+      <EnglishText>I feel as though this Kingdom is
 heading in a terrible direction.
 But there isn't anyone in either
 the army or the &lt;Blue&gt;Royal Shield&lt;White&gt; who
@@ -495,7 +493,7 @@ is capable of stopping it.</EnglishText>
       <PointerOffset>5899</PointerOffset>
       <JapaneseText>お願いします。どうか、
 この国を救ってください。</JapaneseText>
-      <EnglishText>Please... Please save the kingdom.</EnglishText>
+      <EnglishText>Please... Please save The Kingdom.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>

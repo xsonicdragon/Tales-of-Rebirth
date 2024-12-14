@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>708</PointerOffset>
       <JapaneseText>ウッチャリグミを入手しました</JapaneseText>
-      <EnglishText>Comeback Gel acquired</EnglishText>
+      <EnglishText>Rebound Gel acquired</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -175,7 +175,7 @@ No</EnglishText>
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Green&gt;Using Eugene's force, break the
 tombstones that have the same
-colour as the flames that
+color as the flames that
 illuminate the pathway.
 </EnglishText>
       <Notes/>

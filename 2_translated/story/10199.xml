@@ -12,7 +12,7 @@
     </Entry>
     <Entry>
       <PointerOffset>4645,4666,4691,4893,4946,4967,5212,5855,5939,6843,7022</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>0</Id>
@@ -110,8 +110,7 @@
     </Entry>
     <Entry>
       <PointerOffset>6846</PointerOffset>
-      <JapaneseText>&lt;font:2&gt;アイテム数を&lt;unk18:441480&gt;&lt;unk17:340480&gt;しました
-</JapaneseText>
+      <JapaneseText>&lt;font:2&gt;アイテム数を&lt;unk18:441480&gt;&lt;unk17:340480&gt;しました</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>0</SpeakerId>
@@ -120,7 +119,7 @@
     </Entry>
     <Entry>
       <PointerOffset>6818</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes>&lt;ADDED&gt;</Notes>
       <Id>5</Id>
@@ -140,7 +139,7 @@
     <Entry>
       <PointerOffset>7609</PointerOffset>
       <JapaneseText>食材調達施設へようこそ！</JapaneseText>
-      <EnglishText>Welcome to Farm 
+      <EnglishText>Welcome to Farm
 Fresh Groceries!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -190,28 +189,28 @@ freshest of ingredients.</EnglishText>
       <JapaneseText>今ならなんと！
 特別期間限定キャンペーン中につき、
 無料でお分けしています！</JapaneseText>
-      <EnglishText>But not right now!
-We've doing a limited time
-campaign where we're giving 
-them away for free!</EnglishText>
+      <EnglishText>But not right now! We're doing
+a limited time campaign where
+we're giving them away for
+free!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7728</PointerOffset>
       <JapaneseText>各食材チケットをお持ちいただく事で、
 お客様には優先的に食材を
 配達する事ができます。</JapaneseText>
-      <EnglishText>If you exhange food tickets
+      <EnglishText>If you exchange food tickets
 with us, we'll make it our 
 priority to get ingredients
 delivered right to you!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7750</PointerOffset>
@@ -221,7 +220,7 @@ gather them up!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7772</PointerOffset>
@@ -234,43 +233,44 @@ tickets that you have.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7794</PointerOffset>
       <JapaneseText>また、マジカルポットレベルアップ
 キャンペーンも併せて実施中ですので
 この機会にぜひどうぞ！</JapaneseText>
-      <EnglishText>Also, we're doing a Magical
-Pot Level Up Campaign as
-well, so try to take
-advantage of that too!</EnglishText>
+      <EnglishText>Also, we're doing a Magical Pot
+Level Up Campaign as well, so
+try to take advantage of that
+too!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7837</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Green&gt;食材のチケットはワールドマップ
 に点在しています。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Green&gt;You can find Food Tickets
-scattered about the World Map.</EnglishText>
+scattered about the World
+Map.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7861</PointerOffset>
       <JapaneseText>&lt;Green&gt;バトルブックに
 &lt;Red&gt;料理&lt;Green&gt;についての説明が追加されました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Information about &lt;Red&gt;Cooking&lt;Green&gt;
-was added to the Battle Book.</EnglishText>
+      <EnglishText>&lt;Green&gt;Information about &lt;Red&gt;Cooking&lt;Green&gt; was
+added to the Battle Book.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7885</PointerOffset>
@@ -302,10 +302,8 @@ Level Up Amount</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>7283</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt;レベルは最大です。
-</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt; is at max level.
-</EnglishText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt;レベルは最大です。</JapaneseText>
+      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:441480&gt; is at max level.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -324,8 +322,8 @@ Level Up Amount</EnglishText>
       <PointerOffset>7456</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;今の段階ではこれ以上
 レベルアップできません。</JapaneseText>
-      <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;You cannot level it 
-up more than this currently.</EnglishText>
+      <EnglishText>&lt;speed:0&gt;You cannot level it up any
+further at the moment.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
@@ -334,7 +332,9 @@ up more than this currently.</EnglishText>
     <Entry>
       <PointerOffset>7485</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;unk18:441480&gt;レベルを上げます。
-よろしいですか？　はい　　いいえ　</JapaneseText>
+よろしいですか？
+　はい　
+　いいえ　</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;Raise the &lt;unk18:441480&gt; Level.
 Is this alright?
 Yes
@@ -412,12 +412,12 @@ noticeフラグ
       <JapaneseText>これが、
 そのフォルスの具現化したもの。
 フォルスキューブさ。</JapaneseText>
-      <EnglishText>This here is a materialization of Force.
-It's called a Force Cube.</EnglishText>
+      <EnglishText>This here is a manifestation of
+Force. It's called a Force Cube.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>5604</PointerOffset>
@@ -425,12 +425,12 @@ It's called a Force Cube.</EnglishText>
       <JapaneseText>これが、
 そのフォルスの具現化したもの。
 フォルスキューブさ。</JapaneseText>
-      <EnglishText>This here is a materialization of Force.
-It's called a Force Cube.</EnglishText>
+      <EnglishText>This here is a manifestation of
+Force. It's called a Force Cube.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>5678</PointerOffset>

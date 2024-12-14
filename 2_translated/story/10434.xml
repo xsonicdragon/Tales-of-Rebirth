@@ -124,7 +124,7 @@
     </Entry>
     <Entry>
       <PointerOffset>11766</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>14</Id>
@@ -177,8 +177,8 @@
 港町だって聞いてたんだがなぁ……</JapaneseText>
       <EnglishText>Whew... We're here at last!
 But uh, why is Babilograd
-here in the mountains?
-I'd heard it was a port town...</EnglishText>
+here in the mountains? I'd
+heard it was a port town...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>5</Id>
@@ -191,11 +191,10 @@ I'd heard it was a port town...</EnglishText>
 リフトという乗り物で
 すぐに移動ができるが、
 それ以外の手段がないのがやっかいだ。</JapaneseText>
-      <EnglishText>The city proper is situated quite
-a ways above the harbor. You
-can move from one to the other
-quickly if you use the lift, but
-unfortunately that's the only way.</EnglishText>
+      <EnglishText>The city proper is situated quite a ways
+above the harbor. You can move from one
+to the other quickly if you use the lift,
+but unfortunately that's the only way.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -235,8 +234,9 @@ our way to the lift platform.</EnglishText>
       <JapaneseText>立ち聞きとは、あんまり
 感心できない趣味ね。
 出てらっしゃい！</JapaneseText>
-      <EnglishText>I have little appreciation for
-eavesdroppers. Show yourself!</EnglishText>
+      <EnglishText>I have little appreciation
+for eavesdroppers. Show
+yourself!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -270,10 +270,11 @@ won't you respond?</EnglishText>
 彼女は答えられないんだ。
 この街に伝わる蒼獣信仰の
 戒律を守るためにな。</JapaneseText>
-      <EnglishText>No, wait... It's likely that she can't
-answer us, due to the commandments
-of the Azure Beast Faith that is
-adhered to in this town.</EnglishText>
+      <EnglishText>No, wait... It's likely that she
+can't answer us, due to the
+commandments of the Azure
+Beast Faith that is adhered
+to in this town.</EnglishText>
       <Notes>Azure or blue</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -286,8 +287,8 @@ adhered to in this town.</EnglishText>
 若い女性は素顔を見せるのも禁じられている。
 それが、バビログラードの蒼獣信仰における
 絶対的な戒律だ。</JapaneseText>
-      <EnglishText>Speaking to the opposite sex outside
-of one's immediate family is forbidden.
+      <EnglishText>Speaking to the opposite sex outside of
+one's immediate family is forbidden.
 Young women must also not show their
 bare face. These commandments are
 absolute for adherents of the Faith in
@@ -313,10 +314,9 @@ Babilograd.</EnglishText>
 ごめんなさい。
 何も知らずにあなたを
 怖がらせてしまったみたいで……</JapaneseText>
-      <EnglishText>To think they hold such strict
-beliefs... My apologies. It seems
-we have frightened you due to
-our ignorance.</EnglishText>
+      <EnglishText>To think they hold such strict beliefs...
+My apologies. It seems we have
+frightened you due to our ignorance.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>15</Id>
@@ -429,9 +429,9 @@ Please, believe me!</EnglishText>
       <JapaneseText>彼女と……
 ダナと会って話しているのを
 誰かに見られたらまずいからです……</JapaneseText>
-      <EnglishText>Because...if someone were to
-see Dana and I talking together,
-we would get in trouble...</EnglishText>
+      <EnglishText>Because...if someone were to see
+Dana and I talking together, we
+would get in trouble...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>25</Id>
@@ -490,9 +490,10 @@ a Gajuma...and he is a Huma.</EnglishText>
       <VoiceId>1c000019</VoiceId>
       <JapaneseText>私は認めない……
 こんな話、わかりたくもないわ！</JapaneseText>
-      <EnglishText>I cannot accept such a
-relationship... And I have
-no desire to understand it!</EnglishText>
+      <EnglishText>I cannot accept such
+a relationship... And
+I have no desire to
+understand it!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
@@ -526,8 +527,8 @@ I want to ask you.</EnglishText>
       <JapaneseText>街の人たちに見られたくない。
 すみませんが、他を当たってください。</JapaneseText>
       <EnglishText>We don't want to be seen by
-anyone in town. I'm sorry, but
-please ask someone else!</EnglishText>
+anyone in town. I'm sorry,
+but please ask someone else!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
@@ -539,7 +540,8 @@ please ask someone else!</EnglishText>
       <JapaneseText>お、おい……行っちまったぜ……
 まったく、どうなってんだ？</JapaneseText>
       <EnglishText>H-Hey...! Man, they left.
-Seriously, what's going on here?</EnglishText>
+Seriously, what's going
+on here?</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -599,9 +601,9 @@ party member by pressing &lt;icon:36&gt; and &lt;icon:37&gt;.</EnglishText>
       <PointerOffset>3859</PointerOffset>
       <JapaneseText>&lt;Green&gt;女性には&lt;Annie&gt;や&lt;Hilda&gt;を
 表示キャラクターにして話しかけましょう。</JapaneseText>
-      <EnglishText>&lt;Green&gt;For example, you can talk to
-females while walking around
-as &lt;Annie&gt; or &lt;Hilda&gt;.</EnglishText>
+      <EnglishText>&lt;Green&gt;For example, you can talk
+to females while walking
+around as &lt;Annie&gt; or &lt;Hilda&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>39</Id>
@@ -684,7 +686,7 @@ No</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>5637</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>12</SpeakerId>
@@ -825,8 +827,7 @@ No</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>5712</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48D40480&gt;&lt;unk18:48D80480&gt;&lt;unk18:48DC0480&gt;&lt;unk18:48E00480&gt;&lt;unk18:48E40480&gt;&lt;unk18:48E80480&gt;
-</JapaneseText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48D40480&gt;&lt;unk18:48D80480&gt;&lt;unk18:48DC0480&gt;&lt;unk18:48E00480&gt;&lt;unk18:48E40480&gt;&lt;unk18:48E80480&gt;</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48D40480&gt;&lt;unk18:48D80480&gt;&lt;unk18:48DC0480&gt;&lt;unk18:48E00480&gt;&lt;unk18:48E40480&gt;&lt;unk18:48E80480&gt;</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
@@ -838,8 +839,7 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;馬車で&lt;unk18:48D00428B8048880&gt;に移動します。
 料金&lt;nmb:12C&gt;ガルド
 　はい　
-　いいえ　
-</JapaneseText>
+　いいえ　</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;The fare to &lt;unk18:48D00428B8048880&gt;is &lt;nmb:12C&gt; Gald.
 Embark
 Stay</EnglishText>
@@ -930,7 +930,7 @@ the commandments...</EnglishText>
       <PointerOffset>11679</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>68</Id>
@@ -1004,7 +1004,7 @@ That's not going to happen...</EnglishText>
 登山洞のバイラスなんて……</JapaneseText>
       <EnglishText>If only I were strong, I would
 be able to defeat the Biruses
-in the Climber's Cavern...</EnglishText>
+in the Climbers' Cavern...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>75</Id>
@@ -1028,7 +1028,7 @@ isn't you folks!</EnglishText>
 登山洞が使えるように
 なったんですか？</JapaneseText>
       <EnglishText>By any chance... Is it possible to
-use the Climber's Cavern again?</EnglishText>
+use the Climbers' Cavern again?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>

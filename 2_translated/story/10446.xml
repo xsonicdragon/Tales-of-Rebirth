@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <PointerOffset>449,1292,1256,1220,1157,1184,840,891</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -166,7 +166,7 @@ the commandments...</EnglishText>
       <PointerOffset>362</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -209,8 +209,8 @@ this town...</EnglishText>
       <JapaneseText>力仕事か、何か知らんが、
 ワシには無理じゃ。</JapaneseText>
       <EnglishText>I'm guessing he needs them
-for physical labor, because I
-can't help.</EnglishText>
+for physical labor, because
+I can't help.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -316,9 +316,10 @@ you guys.</EnglishText>
 </JapaneseText>
       <EnglishText>I've been rereading the Azure
 Beast's Scriptures, not in the
-modern vernacular, but the orignal
-version. I want to properly
-understand its teachings...</EnglishText>
+modern vernacular, but the
+original version. I want to
+properly understand its
+teachings...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>21</Id>
@@ -504,7 +505,7 @@ The owner must be quite conservative.</EnglishText>
       <PointerOffset>843</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;『基礎の古代カレギア語文法』
 </JapaneseText>
-      <EnglishText>&lt;speed:0&gt;-Basic Grammar of Ancient Callegean -</EnglishText>
+      <EnglishText>&lt;speed:0&gt;- Basic Grammar of Ancient Callegean -</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>

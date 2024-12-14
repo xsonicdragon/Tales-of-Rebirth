@@ -60,17 +60,15 @@
     </Entry>
     <Entry>
       <PointerOffset>484,507</PointerOffset>
-      <JapaneseText>&lt;unk19:28980480&gt;
-</JapaneseText>
-      <EnglishText>&lt;unk19:28980480&gt;
-</EnglishText>
+      <JapaneseText>&lt;unk19:28980480&gt;</JapaneseText>
+      <EnglishText>&lt;unk19:28980480&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1190</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -213,7 +211,7 @@ power to save her.</EnglishText>
       <JapaneseText>ラッキー♪　まきが残ってる。
 ちちんぷいぷいッ!!　……と。</JapaneseText>
       <EnglishText>Lucky us! There's still some
-firewood left. Firecazam!!
+firewood left. Firekazam!!
 ...Ahem.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
@@ -226,7 +224,7 @@ firewood left. Firecazam!!
       <JapaneseText>うん♪　フォルスは人の
 幸せのために使わないとネ♪</JapaneseText>
       <EnglishText>There we go! Gotta use Force
-for the sake of others! ♪</EnglishText>
+for the sake of others♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>13</Id>
@@ -531,7 +529,7 @@ downtime being broody.</EnglishText>
       <JapaneseText>じゃあ、疲れをとるおまじない。
 ちちんぷいぷい!!</JapaneseText>
       <EnglishText>Okay then, just leave the sweet
-dreams to me! Firecazam!!</EnglishText>
+dreams to me! Firekazam!!</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>37</Id>
@@ -684,7 +682,7 @@ No</EnglishText>
       <PointerOffset>1759</PointerOffset>
       <JapaneseText>まだ調べ終わってないから、
 この本、貸しておいてね。</JapaneseText>
-      <EnglishText>I still havent finished reading
+      <EnglishText>I still haven't finished reading
 this, so can I keep it for a
 little while longer?</EnglishText>
       <Notes/>
@@ -749,7 +747,7 @@ tasty in here! Lemme take a bite.</EnglishText>
     <Entry>
       <PointerOffset>1467</PointerOffset>
       <JapaneseText>&lt;Green&gt;料理が入っていました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;There was food in the bag.</EnglishText>
+      <EnglishText>&lt;Green&gt;There's food inside.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>56</Id>
@@ -759,9 +757,9 @@ tasty in here! Lemme take a bite.</EnglishText>
       <PointerOffset>1491</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、誰のものかわからないので
 とりあえず、袋を閉じました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Since you don't know who
-this belongs to, you refrain
-from touching it.</EnglishText>
+      <EnglishText>&lt;Green&gt;Since you don't know
+who it belongs to, you
+leave it alone for now.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>57</Id>
@@ -790,7 +788,7 @@ No</EnglishText>
       <PointerOffset>289</PointerOffset>
       <JapaneseText>……前に来た時には、
 こんなものはなかった……</JapaneseText>
-      <EnglishText>There wasn't anything the
+      <EnglishText>There wasn't anything here the
 last time we were here...</EnglishText>
       <Notes>I believe dialogue changes on character - this one's Veigue</Notes>
       <SpeakerId>6</SpeakerId>
@@ -801,9 +799,9 @@ last time we were here...</EnglishText>
       <PointerOffset>318</PointerOffset>
       <JapaneseText>ラッキー!!　前に来た時には
 何もなかったのに！</JapaneseText>
-      <EnglishText>It's my lucky day! There wasn't
-anything the last time we were
-here!</EnglishText>
+      <EnglishText>It's my lucky day! There
+wasn't anything the last
+time we were here!</EnglishText>
       <Notes>This one's Mao</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>60</Id>
@@ -813,9 +811,8 @@ here!</EnglishText>
       <PointerOffset>347</PointerOffset>
       <JapaneseText>うむ……以前、ここには
 何もなかったと思うが……</JapaneseText>
-      <EnglishText>Hm... I don't think there was
-anything the last time we were
-here...</EnglishText>
+      <EnglishText>Hmm... I don't think there was
+anything here last time...</EnglishText>
       <Notes>This one's Eugene I think</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>61</Id>
@@ -825,8 +822,9 @@ here...</EnglishText>
       <PointerOffset>377</PointerOffset>
       <JapaneseText>まさか、こんなところに……
 とても意外な感じね。</JapaneseText>
-      <EnglishText>I never expected to find
-something here, of all places...</EnglishText>
+      <EnglishText>I never expected to
+find something here,
+of all places...</EnglishText>
       <Notes>This one's Annie I think</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>62</Id>
@@ -920,9 +918,9 @@ already been...?</EnglishText>
       <JapaneseText>前に行った場所でも、
 もういっぺん行ってみたら、
 何か見つかるかもしれないな！</JapaneseText>
-      <EnglishText>Maybe we can find new things
-in other places we've been
-to too!</EnglishText>
+      <EnglishText>Maybe we can find new
+things in other places
+we've been to too!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>70</Id>

@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <PointerOffset>449</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>13</Id>
@@ -187,7 +187,8 @@ the lift any time soon.</EnglishText>
 本当に首都バルカへ
 侵入する事ができるのか？</JapaneseText>
       <EnglishText>Can we really sneak into
-Balka from Babilograd's port?</EnglishText>
+Balka from Babilograd's
+port?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -202,7 +203,7 @@ Balka from Babilograd's port?</EnglishText>
       <EnglishText>Of course. If what we heard in
 Sunnytown is true, all of the
 other ports across the entire
-kingdom have been blockaded.</EnglishText>
+Kingdom have been blockaded.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -233,7 +234,8 @@ the only one still in operation.</EnglishText>
 バルカに送られてるってコト？</JapaneseText>
       <EnglishText>So then, would that mean the girls
 kidnapped by the &lt;Blue&gt;Royal Shield&lt;White&gt; are
-being transported to Balka from here?</EnglishText>
+being transported to Balka from
+here?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -249,8 +251,8 @@ being transported to Balka from here?</EnglishText>
       <EnglishText>...But there doesn't appear to be any
 buildings near the port large enough
 to accommodate so many people.
-And wouldn't having to use the
-lift repeatedly be time-consuming?</EnglishText>
+And wouldn't having to use the lift
+repeatedly be time-consuming?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -481,7 +483,7 @@ thing. Completely unacceptable.</EnglishText>
       <PointerOffset>4766</PointerOffset>
       <VoiceId>32000008</VoiceId>
       <JapaneseText>&lt;Hilda&gt;さん……？</JapaneseText>
-      <EnglishText>Hilda...?</EnglishText>
+      <EnglishText>&lt;Hilda&gt;...?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>30</Id>
@@ -821,7 +823,7 @@ the commandments...</EnglishText>
       <PointerOffset>362</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>60</Id>
@@ -852,7 +854,7 @@ because of the commandments...</EnglishText>
       <JapaneseText>ヒューマの娘を連れた軍隊？
 知らん、知らん！
 </JapaneseText>
-      <EnglishText>Military troops who are travelling
+      <EnglishText>Military troops who are traveling
 with Huma girls? I've never heard
 of such a thing!</EnglishText>
       <Notes/>
@@ -864,8 +866,8 @@ of such a thing!</EnglishText>
       <PointerOffset>2096</PointerOffset>
       <JapaneseText>ワシはお祈りに忙しいんだ、
 邪魔をするな！</JapaneseText>
-      <EnglishText>Now go bother someone else!
-I'm busy praying.</EnglishText>
+      <EnglishText>Now go bother someone
+else! I'm busy praying.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>64</Id>

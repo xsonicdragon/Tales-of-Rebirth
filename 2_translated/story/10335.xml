@@ -393,8 +393,8 @@ you as well.</EnglishText>
       <JapaneseText>……どうして？
 どうして私たちが
 争わなければいけないのよ？</JapaneseText>
-      <EnglishText>...Why? Why must
-we fight each other?</EnglishText>
+      <EnglishText>...Why? Why must we
+fight each other?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
@@ -406,10 +406,10 @@ we fight each other?</EnglishText>
       <JapaneseText>今まで一緒に育って来たんじゃない。
 それなのに、その私たちが……
 ハーフ同士が争うなんてそんな……!!</JapaneseText>
-      <EnglishText>Didn't we grow up together? To
-have to fight you after everything
-we've been through... I don't want
-to fight a fellow Half!</EnglishText>
+      <EnglishText>Didn't we grow up together? To have
+to fight you after everything we've
+been through... I don't want to fight
+a fellow Half!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -493,8 +493,9 @@ with all the other ones?</EnglishText>
       <JapaneseText>私は何も知らない。
 知る必要はないし、
 知りたいとも思わない。</JapaneseText>
-      <EnglishText>I know nothing. I don't need to
-know, and I don't care to find out.</EnglishText>
+      <EnglishText>I know nothing. I don't need
+to know, and I don't care to
+find out.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>32</Id>
@@ -516,9 +517,9 @@ know, and I don't care to find out.</EnglishText>
       <JapaneseText>&lt;Hilda&gt;……
 必ず後悔する時が来る……
 私たちに居場所などない……</JapaneseText>
-      <EnglishText>&lt;Hilda&gt;... One day, you will
-regret this. There will never
-be a place where we belong.</EnglishText>
+      <EnglishText>&lt;Hilda&gt;... One day, you will regret
+this. There will never be a place
+where we belong.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
@@ -584,9 +585,10 @@ I almost forgot!</EnglishText>
       <JapaneseText>わざわざ&lt;Blue&gt;四星&lt;White&gt;が連れ戻そうと
 したくらいだから、何か重大な
 情報を握っているに違いない。</JapaneseText>
-      <EnglishText>For the &lt;Blue&gt;Four Stars&lt;White&gt; to go out
-of their way to retrieve her,
-she must hold valuable
+      <EnglishText>For the &lt;Blue&gt;Four Stars&lt;White&gt; to
+go out of their way
+to retrieve her, she
+must hold valuable
 information.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -758,11 +760,10 @@ What's all that about?</EnglishText>
 つまり……正義と悪。
 種族なんてものが存在するなら、
 それはこのふたつしかねぇ。</JapaneseText>
-      <EnglishText>There's people who are kind and
-those who aren't. In other words...
-Good and Evil. If race is a thing
-that exists, those are your two
-races.</EnglishText>
+      <EnglishText>There's people who are kind and those
+who aren't. In other words... Good and
+Evil. If race is a thing that exists, then
+those are your two races.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>55</Id>
@@ -773,9 +774,10 @@ races.</EnglishText>
       <VoiceId>170000be</VoiceId>
       <JapaneseText>あんたが恨みを持ってるトーマは悪だ。
 あいつを倒すなら、あんたは正義になる。</JapaneseText>
-      <EnglishText>Tohma, the guy you hate, is
-evil. If you can prevail over him,
-that'll make you a good person.</EnglishText>
+      <EnglishText>Tohma, the guy you hate,
+is evil. If you can prevail
+over him, that'll make you
+a good person.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>56</Id>
@@ -799,11 +801,11 @@ that'll make you a good person.</EnglishText>
 借りを返すつもりで力を貸してくれないか。
 戦力的に見ても、&lt;Hilda&gt;のような能力を
 持った仲間が欲しかったところだ。</JapaneseText>
-      <EnglishText>If you feel guilty for attacking us,
-then you can atone for it by lending
-us your power. Having witnessed your
-abilities firsthand, I wouldn't mind
-having you for an ally.</EnglishText>
+      <EnglishText>If you feel guilty for attacking us, then
+you can atone for it by lending us your
+power. Having witnessed your abilities
+firsthand, I wouldn't mind having you
+for an ally.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>58</Id>
@@ -868,9 +870,9 @@ to you...and make Tohma pay!</EnglishText>
       <JapaneseText>よして。
 馴れ合いは嫌いだって
 言ったでしょ。</JapaneseText>
-      <EnglishText>Enough... I made it clear
-that I dislike companionship,
-did I not?</EnglishText>
+      <EnglishText>Enough... I made it clear that
+I dislike companionship, did I
+not?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>64</Id>
@@ -1001,10 +1003,8 @@ over my head.</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>20969</PointerOffset>
-      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。
-</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.
-</EnglishText>
+      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。</JapaneseText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>76</Id>
@@ -1012,10 +1012,8 @@ over my head.</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>21047</PointerOffset>
-      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。
-</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now travelling with you.
-</EnglishText>
+      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。</JapaneseText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now traveling with you.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>
@@ -1054,8 +1052,9 @@ No</EnglishText>
       <PointerOffset>7965</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Green&gt;&lt;Hilda&gt;の所持品、『コレクター図鑑』が
 貴重品に加わりました。</JapaneseText>
-      <EnglishText>&lt;font:80000000&gt;&lt;speed:0&gt;&lt;Green&gt;&lt;Hilda&gt;'s belongings were added to the
-Valuables page in the Collector's Book.</EnglishText>
+      <EnglishText>&lt;font:80000000&gt;&lt;speed:0&gt;&lt;Green&gt;&lt;Hilda&gt;'s belongings were added
+to the Valuables page in the
+Collector's Book.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>80</Id>
@@ -1098,8 +1097,9 @@ You're gonna get left behind.</EnglishText>
       <VoiceId>36000000</VoiceId>
       <JapaneseText>いつもと変わらないみたいだけど……
 ホントにここが&lt;Blue&gt;幻の島&lt;White&gt;なのか？</JapaneseText>
-      <EnglishText>Everything seems business as usual here.
-Is this really the &lt;Blue&gt;Island of Illusions&lt;White&gt;?</EnglishText>
+      <EnglishText>Everything seems business as
+usual here. Is this really the
+&lt;Blue&gt;Island of Illusions&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>84</Id>
@@ -1172,7 +1172,7 @@ No</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>8643</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>9</SpeakerId>
@@ -1313,8 +1313,7 @@ No</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>8718</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48340580&gt;&lt;unk18:48380580&gt;&lt;unk18:483C0580&gt;&lt;unk18:48400580&gt;&lt;unk18:48440580&gt;&lt;unk18:48480580&gt;
-</JapaneseText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48340580&gt;&lt;unk18:48380580&gt;&lt;unk18:483C0580&gt;&lt;unk18:48400580&gt;&lt;unk18:48440580&gt;&lt;unk18:48480580&gt;</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48340580&gt;&lt;unk18:48380580&gt;&lt;unk18:483C0580&gt;&lt;unk18:48400580&gt;&lt;unk18:48440580&gt;&lt;unk18:48480580&gt;</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
@@ -1326,8 +1325,7 @@ No</EnglishText>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:140&gt;&lt;font:80000002&gt;馬車で&lt;unk18:48300528B8048880&gt;に移動します。
 料金&lt;nmb:12C&gt;ガルド
 　はい　
-　いいえ　
-</JapaneseText>
+　いいえ　</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:140&gt;The fare to &lt;unk18:48300528B8048880&gt;is &lt;nmb:12C&gt; Gald.
 Embark
 Stay</EnglishText>
@@ -1687,8 +1685,9 @@ Gajuma so much? </EnglishText>
       <JapaneseText>ヒューマって、ガジュマの事、
 サベツしてるってホント？
 </JapaneseText>
-      <EnglishText>Is it true that Huma diss-
-criminate against us?</EnglishText>
+      <EnglishText>Is it true that the
+Huma diss-criminate
+against us?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>132</Id>
@@ -1752,7 +1751,7 @@ not many people go that way.</EnglishText>
 旅にでるところなの。</JapaneseText>
       <EnglishText>I never thought I'd see
 you here... I'm currently
-travelling with Natalie.</EnglishText>
+traveling with Natalie.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>137</Id>
@@ -1789,7 +1788,7 @@ after we escaped the castle.</EnglishText>
 ……あなたがたは、なぜ旅行に？</JapaneseText>
       <EnglishText>T-Thank you.
 ...Why is it that
-you're travelling?</EnglishText>
+you're traveling?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>140</Id>

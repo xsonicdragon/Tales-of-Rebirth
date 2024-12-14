@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <PointerOffset>295</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -139,7 +139,7 @@ soon as possible.</EnglishText>
       <JapaneseText>お連れにガジュマがいるみたいだけど、
 この街では、あまりガジュマと仲良く
 しないほうがいいわよ……</JapaneseText>
-      <EnglishText>I see you're travelling with
+      <EnglishText>I see you're traveling with
 a Gajuma, but you really
 shouldn't be buddy-buddy
 with them around here...</EnglishText>
@@ -399,7 +399,8 @@ Agarte's speech!</EnglishText>
       <JapaneseText>寒さがこたえて……
 私はここから祈らせてもらうわ。</JapaneseText>
       <EnglishText>The cold is getting to me...
-I'll be here praying for the moment.</EnglishText>
+I'll be here praying for the
+moment.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>29</Id>

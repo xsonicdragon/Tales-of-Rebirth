@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <PointerOffset>437</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -262,7 +262,7 @@ the commandments...</EnglishText>
       <PointerOffset>350</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>16</Id>
@@ -440,10 +440,9 @@ a valuable lesson.</EnglishText>
       <JapaneseText>男女が話をしてはいけないという
 戒律を破ったうえに……
 ガジュマのダナを……</JapaneseText>
-      <EnglishText>Not only are we breaking the
-taboo against speaking to the
-opposite sex, Dana is a Gajuma
-as well...</EnglishText>
+      <EnglishText>Not only are we breaking the taboo
+against speaking to the opposite
+sex, Dana is a Gajuma as well...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>

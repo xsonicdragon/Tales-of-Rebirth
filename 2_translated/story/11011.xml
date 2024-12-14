@@ -92,10 +92,8 @@
     </Entry>
     <Entry>
       <PointerOffset>1544,1510,1476,1442,1408,1374</PointerOffset>
-      <JapaneseText>&lt;unk19:222280&gt;
-</JapaneseText>
-      <EnglishText>&lt;unk19:222280&gt;
-</EnglishText>
+      <JapaneseText>&lt;unk19:222280&gt;</JapaneseText>
+      <EnglishText>&lt;unk19:222280&gt;</EnglishText>
       <Notes/>
       <Id>10</Id>
       <Status>Done</Status>
@@ -110,7 +108,7 @@
     </Entry>
     <Entry>
       <PointerOffset>1340,1304,1268</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>12</Id>
@@ -675,7 +673,7 @@ go all that way for me...?</EnglishText>
       <JapaneseText>気にすんなって。
 困った時はお互い様さ！</JapaneseText>
       <EnglishText>I told you not to worry about it.
-We'll be there for each other!</EnglishText>
+We'll be there for you!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
@@ -712,7 +710,7 @@ Amber Jewels!</EnglishText>
     <Entry>
       <PointerOffset>4398</PointerOffset>
       <JapaneseText>お待たせ♪</JapaneseText>
-      <EnglishText>Sorry to keep you waiting!♪</EnglishText>
+      <EnglishText>Sorry to keep you waiting♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>54</Id>
@@ -1391,7 +1389,7 @@ that I've gotten this far.</EnglishText>
 ニノンが努力した結果だぜ！
 ひとりでよく頑張ったな。</JapaneseText>
       <EnglishText>Nooo, it wasn't us... It's
-the result of &lt;Italics&gt;your&lt;/Italics&gt; hard
+the result of &lt;Italic&gt;your&lt;/Italic&gt; hard
 work! You've done well
 to get where you are.</EnglishText>
       <Notes/>
@@ -1613,7 +1611,7 @@ Are you feeling unwell?</EnglishText>
       <PointerOffset>8190</PointerOffset>
       <JapaneseText>……なんだか最近、気分が高まって
 眠れなかったりするんです。</JapaneseText>
-      <EnglishText>...I havent really been able
+      <EnglishText>...I haven't really been able
 to sleep because I've been
 a little too excited.</EnglishText>
       <Notes/>
@@ -2277,7 +2275,7 @@ No</EnglishText>
 There are plates and seasonings on
 the shelves. On the top shelf is a
 copy of the "Complete Collection
-of Callegean Cooking".</EnglishText>
+of Callegean Cooking."</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>195</Id>

@@ -16,7 +16,7 @@
 </JapaneseText>
       <EnglishText>A swordsman who wields a broadsword.
 His techniques are infused with his &lt;Yellow&gt;Force
-of Ice&lt;White&gt;.</EnglishText>
+&lt;Yellow&gt;of Ice&lt;White&gt;.</EnglishText>
       <Notes/>
       <Id>3669</Id>
       <Status>Proofreading</Status>
@@ -469,8 +469,8 @@ bidder.</EnglishText>
 &lt;Yellow&gt;炎のフォルス&lt;White&gt;から力を得た術を使う。
 </JapaneseText>
       <EnglishText>A magic user. He casts spells using
-his &lt;Yellow&gt;Force of Flames&lt;White&gt;.</EnglishText>
-      <Notes/>
+his &lt;Yellow&gt;Force of Fire&lt;White&gt;.</EnglishText>
+      <Notes>force of flames is Fenia -dragon</Notes>
       <Id>3715</Id>
       <Status>Proofreading</Status>
     </Entry>
@@ -564,7 +564,7 @@ taste for music is...very unique.</EnglishText>
 真の名は「オルセルグ」
 </JapaneseText>
       <EnglishText>A life created by the Sacred Beast
-Fenia. His true name is "Olselge".</EnglishText>
+Fenia. His true name is "Olselge."</EnglishText>
       <Notes/>
       <Id>3725</Id>
       <Status>Proofreading</Status>
@@ -765,7 +765,7 @@ missions of the &lt;Yellow&gt;Force of Dreams&lt;White&gt;.</EnglishText>
       <JapaneseText>旅とは、自らの知識と
 自らの心を広げるものでもある。
 </JapaneseText>
-      <EnglishText>Travelling expands both one's
+      <EnglishText>Traveling expands both one's
 knowledge and one's mind.</EnglishText>
       <Notes/>
       <Id>3746</Id>

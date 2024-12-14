@@ -60,7 +60,7 @@
     </Entry>
     <Entry>
       <PointerOffset>3239,3263,3287,3324,3348,3467,3491,3528,3589,3623</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -2586,8 +2586,7 @@ bonuses to a character's stats.</EnglishText>
 どの称号を名乗るかは自由です。</JapaneseText>
       <EnglishText>&lt;Green&gt;Bonuses for Titles earned are &lt;Red&gt;cumulative&lt;Green&gt;
 and you are free to choose which Title
-you wish to equip in the Status Menu.
-</EnglishText>
+you wish to equip in the Status Menu.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>214</Id>
@@ -2788,10 +2787,13 @@ the proper proceedings first.</EnglishText>
     <Entry>
       <PointerOffset>1501</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
-&lt;Mao&gt;&lt;unk18:444080&gt;&lt;Eugene&gt;&lt;unk18:443C80&gt;</JapaneseText>
+&lt;Mao&gt;&lt;unk18:444080&gt;
+&lt;Eugene&gt;&lt;unk18:443C80&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
 &lt;Mao&gt;&lt;unk18:444080&gt;
-&lt;Eugene&gt;&lt;unk18:443C80&gt;</EnglishText>
+&lt;Eugene&gt;&lt;unk18:443C80&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>230</Id>
@@ -2800,11 +2802,15 @@ the proper proceedings first.</EnglishText>
     <Entry>
       <PointerOffset>1536</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
-&lt;Mao&gt;&lt;unk18:444080&gt;&lt;Eugene&gt;&lt;unk18:443C80&gt;&lt;Annie&gt;&lt;unk18:443880&gt;</JapaneseText>
+&lt;Mao&gt;&lt;unk18:444080&gt;
+&lt;Eugene&gt;&lt;unk18:443C80&gt;
+&lt;Annie&gt;&lt;unk18:443880&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
 &lt;Mao&gt;&lt;unk18:444080&gt;
 &lt;Eugene&gt;&lt;unk18:443C80&gt;
-&lt;Annie&gt;&lt;unk18:443880&gt;</EnglishText>
+&lt;Annie&gt;&lt;unk18:443880&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>231</Id>
@@ -2813,12 +2819,17 @@ the proper proceedings first.</EnglishText>
     <Entry>
       <PointerOffset>1571</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
-&lt;Mao&gt;&lt;unk18:444080&gt;&lt;Eugene&gt;&lt;unk18:443C80&gt;&lt;Annie&gt;&lt;unk18:443880&gt;&lt;Tytree&gt;&lt;unk18:443480&gt;</JapaneseText>
+&lt;Mao&gt;&lt;unk18:444080&gt;
+&lt;Eugene&gt;&lt;unk18:443C80&gt;
+&lt;Annie&gt;&lt;unk18:443880&gt;
+&lt;Tytree&gt;&lt;unk18:443480&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
 &lt;Mao&gt;&lt;unk18:444080&gt;
 &lt;Eugene&gt;&lt;unk18:443C80&gt;
 &lt;Annie&gt;&lt;unk18:443880&gt;
-&lt;Tytree&gt;&lt;unk18:443480&gt;</EnglishText>
+&lt;Tytree&gt;&lt;unk18:443480&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>232</Id>
@@ -2827,13 +2838,19 @@ the proper proceedings first.</EnglishText>
     <Entry>
       <PointerOffset>1606</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
-&lt;Mao&gt;&lt;unk18:444080&gt;&lt;Eugene&gt;&lt;unk18:443C80&gt;&lt;Annie&gt;&lt;unk18:443880&gt;&lt;Tytree&gt;&lt;unk18:443480&gt;&lt;Hilda&gt;&lt;unk18:443080&gt;</JapaneseText>
+&lt;Mao&gt;&lt;unk18:444080&gt;
+&lt;Eugene&gt;&lt;unk18:443C80&gt;
+&lt;Annie&gt;&lt;unk18:443880&gt;
+&lt;Tytree&gt;&lt;unk18:443480&gt;
+&lt;Hilda&gt;&lt;unk18:443080&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Veigue&gt;&lt;unk18:444480&gt;
 &lt;Mao&gt;&lt;unk18:444080&gt;
 &lt;Eugene&gt;&lt;unk18:443C80&gt;
 &lt;Annie&gt;&lt;unk18:443880&gt;
 &lt;Tytree&gt;&lt;unk18:443480&gt;
-&lt;Hilda&gt;&lt;unk18:443080&gt;</EnglishText>
+&lt;Hilda&gt;&lt;unk18:443080&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>233</Id>
@@ -2843,10 +2860,12 @@ the proper proceedings first.</EnglishText>
       <PointerOffset>894</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Veigue&gt;&lt;unk18:48F40480&gt;
 &lt;Mao&gt;&lt;unk18:48F80480&gt;
-&lt;Eugene&gt;&lt;unk18:48FC0480&gt;</JapaneseText>
+&lt;Eugene&gt;&lt;unk18:48FC0480&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Change &lt;Veigue&gt;&lt;unk18:48F40480&gt;
 Change &lt;Mao&gt;&lt;unk18:48F80480&gt;
-Change &lt;Eugene&gt;&lt;unk18:48FC0480&gt;</EnglishText>
+Change &lt;Eugene&gt;&lt;unk18:48FC0480&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>234</Id>
@@ -2856,11 +2875,14 @@ Change &lt;Eugene&gt;&lt;unk18:48FC0480&gt;</EnglishText>
       <PointerOffset>925</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Veigue&gt;&lt;unk18:48F40480&gt;
 &lt;Mao&gt;&lt;unk18:48F80480&gt;
-&lt;Eugene&gt;&lt;unk18:48FC0480&gt;&lt;Annie&gt;&lt;unk18:48000580&gt;</JapaneseText>
+&lt;Eugene&gt;&lt;unk18:48FC0480&gt;
+&lt;Annie&gt;&lt;unk18:48000580&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Change &lt;Veigue&gt;&lt;unk18:48F40480&gt;
 Change &lt;Mao&gt;&lt;unk18:48F80480&gt;
 Change &lt;Eugene&gt;&lt;unk18:48FC0480&gt;
-Change &lt;Annie&gt;&lt;unk18:48000580&gt;</EnglishText>
+Change &lt;Annie&gt;&lt;unk18:48000580&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>235</Id>
@@ -2870,12 +2892,16 @@ Change &lt;Annie&gt;&lt;unk18:48000580&gt;</EnglishText>
       <PointerOffset>956</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Veigue&gt;&lt;unk18:48F40480&gt;
 &lt;Mao&gt;&lt;unk18:48F80480&gt;
-&lt;Eugene&gt;&lt;unk18:48FC0480&gt;&lt;Annie&gt;&lt;unk18:48000580&gt;&lt;Tytree&gt;&lt;unk18:48040580&gt;</JapaneseText>
+&lt;Eugene&gt;&lt;unk18:48FC0480&gt;
+&lt;Annie&gt;&lt;unk18:48000580&gt;
+&lt;Tytree&gt;&lt;unk18:48040580&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Change &lt;Veigue&gt;&lt;unk18:48F40480&gt;
 Change &lt;Mao&gt;&lt;unk18:48F80480&gt;
 Change &lt;Eugene&gt;&lt;unk18:48FC0480&gt;
 Change &lt;Annie&gt;&lt;unk18:48000580&gt;
-Change &lt;Tytree&gt;&lt;unk18:48040580&gt;</EnglishText>
+Change &lt;Tytree&gt;&lt;unk18:48040580&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>236</Id>
@@ -2885,13 +2911,18 @@ Change &lt;Tytree&gt;&lt;unk18:48040580&gt;</EnglishText>
       <PointerOffset>987</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;Veigue&gt;&lt;unk18:48F40480&gt;
 &lt;Mao&gt;&lt;unk18:48F80480&gt;
-&lt;Eugene&gt;&lt;unk18:48FC0480&gt;&lt;Annie&gt;&lt;unk18:48000580&gt;&lt;Tytree&gt;&lt;unk18:48040580&gt;&lt;Hilda&gt;&lt;unk18:48080580&gt;</JapaneseText>
+&lt;Eugene&gt;&lt;unk18:48FC0480&gt;
+&lt;Annie&gt;&lt;unk18:48000580&gt;
+&lt;Tytree&gt;&lt;unk18:48040580&gt;
+&lt;Hilda&gt;&lt;unk18:48080580&gt;
+</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;Change &lt;Veigue&gt;&lt;unk18:48F40480&gt;
 Change &lt;Mao&gt;&lt;unk18:48F80480&gt;
 Change &lt;Eugene&gt;&lt;unk18:48FC0480&gt;
 Change &lt;Annie&gt;&lt;unk18:48000580&gt;
 Change &lt;Tytree&gt;&lt;unk18:48040580&gt;
-Change &lt;Hilda&gt;&lt;unk18:48080580&gt;</EnglishText>
+Change &lt;Hilda&gt;&lt;unk18:48080580&gt;
+</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>237</Id>

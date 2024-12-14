@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <PointerOffset>711,675,606</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -97,8 +97,8 @@
 そう言う勇気がなかった
 ばっかりに……ゴメンなさい……</JapaneseText>
       <EnglishText>I never held anything against you...
-I just never had the courage to
-speak up... I'm sorry...</EnglishText>
+I just never had the courage to speak
+up... I'm sorry...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>6</Id>

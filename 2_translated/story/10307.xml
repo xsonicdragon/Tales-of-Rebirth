@@ -52,10 +52,8 @@
     </Entry>
     <Entry>
       <PointerOffset>1365</PointerOffset>
-      <JapaneseText>&lt;unk19:D0FF1FC822E00C80&gt;
-</JapaneseText>
-      <EnglishText>&lt;unk19:D0FF1FC822E00C80&gt;
-</EnglishText>
+      <JapaneseText>&lt;unk19:D0FF1FC822E00C80&gt;</JapaneseText>
+      <EnglishText>&lt;unk19:D0FF1FC822E00C80&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Done</Status>
@@ -70,7 +68,7 @@
     </Entry>
     <Entry>
       <PointerOffset>878,803,767</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
@@ -567,11 +565,11 @@ take it as it comes.</EnglishText>
 おいしそうなものが入ってるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
       <EnglishText>Ooh! Looks like there's something
-tasty in here! Lemme take a bite.</EnglishText>
-      <Notes/>
+tasty in here! Lemme take a sip.</EnglishText>
+      <Notes>this one is different because the food item is fruit punch.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>1911</PointerOffset>
@@ -664,7 +662,7 @@ well, why don't you come live here?</EnglishText>
       <PointerOffset>1074</PointerOffset>
       <JapaneseText>君はガジュマと一緒だけど、
 いじめたりしてない……よね？</JapaneseText>
-      <EnglishText>But since you're travelling with a
+      <EnglishText>But since you're traveling with a
 Gajuma, then you aren't the type
 to bully them...are you?</EnglishText>
       <Notes/>

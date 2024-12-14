@@ -292,7 +292,6 @@ Maybe Later
     <Entry>
       <PointerOffset>26059</PointerOffset>
       <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48080880&gt;&lt;unk18:480C0880&gt;&lt;unk18:48100880&gt;&lt;unk18:48140880&gt;&lt;unk18:48180880&gt;&lt;unk18:481C0880&gt;やっぱりやめる
-
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48080880&gt;&lt;unk18:480C0880&gt;&lt;unk18:48100880&gt;&lt;unk18:48140880&gt;&lt;unk18:48180880&gt;&lt;unk18:481C0880&gt;Call it quits
 </EnglishText>
@@ -619,23 +618,23 @@ correct order. If sorted correctly, you win.
       <EnglishText>Everlasting Ice</EnglishText>
       <Notes/>
       <Id>48</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16423</PointerOffset>
       <JapaneseText>落日、そして旅立ち</JapaneseText>
-      <EnglishText>Departing at Sunset</EnglishText>
+      <EnglishText>The Dusk and Departure</EnglishText>
       <Notes/>
       <Id>49</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16431</PointerOffset>
       <JapaneseText>漆黒トリオあらわる!!</JapaneseText>
-      <EnglishText>Dark Trio</EnglishText>
+      <EnglishText>The Dark Trio</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16439</PointerOffset>
@@ -643,23 +642,23 @@ correct order. If sorted correctly, you win.
       <EnglishText>Assassin's Melody</EnglishText>
       <Notes/>
       <Id>51</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16447</PointerOffset>
       <JapaneseText>エトレー橋の決戦!!</JapaneseText>
-      <EnglishText>Etoray Bridge Decisive Battle</EnglishText>
+      <EnglishText>Battle on Etoray Bridge!</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16455</PointerOffset>
       <JapaneseText>アルヴァン山脈を越えろ!!</JapaneseText>
-      <EnglishText>Cross the Alvan Mountains</EnglishText>
+      <EnglishText>The Alvan Mountains</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16463</PointerOffset>
@@ -667,15 +666,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>Revenge in the Rain</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16471</PointerOffset>
       <JapaneseText>港町ミナール</JapaneseText>
-      <EnglishText>Port Town Minal</EnglishText>
+      <EnglishText>Harbor Town Minal</EnglishText>
       <Notes/>
       <Id>55</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16479</PointerOffset>
@@ -683,7 +682,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Forest Labyrinth</EnglishText>
       <Notes/>
       <Id>56</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16487</PointerOffset>
@@ -691,39 +690,39 @@ correct order. If sorted correctly, you win.
       <EnglishText>Rage of the Jungle</EnglishText>
       <Notes/>
       <Id>57</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16495</PointerOffset>
       <JapaneseText>裏切りの食卓</JapaneseText>
-      <EnglishText>Dining Table Betrayal</EnglishText>
+      <EnglishText>A Treacherous Meal</EnglishText>
       <Notes/>
       <Id>58</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16503</PointerOffset>
       <JapaneseText>激流!!　トヨホウス河</JapaneseText>
-      <EnglishText>Torrents at Toyohose River </EnglishText>
+      <EnglishText>Down Tohoyose River!</EnglishText>
       <Notes/>
       <Id>59</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16511</PointerOffset>
       <JapaneseText>哀しき雷鳴</JapaneseText>
-      <EnglishText>Sorrowful Thunderclap</EnglishText>
+      <EnglishText>Sorrowful Thunder</EnglishText>
       <Notes/>
       <Id>60</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16519</PointerOffset>
       <JapaneseText>光の追跡者</JapaneseText>
-      <EnglishText>Pursuer of Light</EnglishText>
+      <EnglishText>Pursuing the Light</EnglishText>
       <Notes/>
       <Id>61</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16527</PointerOffset>
@@ -731,15 +730,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>Queen Agarte</EnglishText>
       <Notes/>
       <Id>62</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16535</PointerOffset>
       <JapaneseText>クロダダク砂漠を行け</JapaneseText>
-      <EnglishText>Travel the Kuroda Desert</EnglishText>
+      <EnglishText>To Kurodadaku Desert</EnglishText>
       <Notes/>
       <Id>63</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16543</PointerOffset>
@@ -747,39 +746,39 @@ correct order. If sorted correctly, you win.
       <EnglishText>Anikamal Adventurer</EnglishText>
       <Notes/>
       <Id>64</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16551</PointerOffset>
       <JapaneseText>欠番</JapaneseText>
       <EnglishText>Missing Number</EnglishText>
-      <Notes/>
+      <Notes>?????</Notes>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>16559</PointerOffset>
       <JapaneseText>登山洞の攻防</JapaneseText>
-      <EnglishText>Climbers' Cavern Operation</EnglishText>
+      <EnglishText>Climbers' Cavern Battle</EnglishText>
       <Notes/>
       <Id>66</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16567</PointerOffset>
       <JapaneseText>禁じられた街</JapaneseText>
-      <EnglishText>Forbidden City</EnglishText>
+      <EnglishText>The Forbidden City</EnglishText>
       <Notes/>
       <Id>67</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16575</PointerOffset>
       <JapaneseText>首都バルカ</JapaneseText>
-      <EnglishText>Capital City Balka</EnglishText>
+      <EnglishText>Capital City: Balka</EnglishText>
       <Notes/>
       <Id>68</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16583</PointerOffset>
@@ -787,23 +786,23 @@ correct order. If sorted correctly, you win.
       <EnglishText>Sacred King</EnglishText>
       <Notes/>
       <Id>69</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16591</PointerOffset>
       <JapaneseText>漆黒の地下牢</JapaneseText>
-      <EnglishText>Jet-Black Dungeon</EnglishText>
+      <EnglishText>The Dark Dungeon</EnglishText>
       <Notes/>
       <Id>70</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16599</PointerOffset>
       <JapaneseText>理由</JapaneseText>
-      <EnglishText>Reason</EnglishText>
+      <EnglishText>Motive</EnglishText>
       <Notes/>
       <Id>71</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16607</PointerOffset>
@@ -811,7 +810,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Full Moon</EnglishText>
       <Notes/>
       <Id>72</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16615</PointerOffset>
@@ -819,7 +818,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Awakening</EnglishText>
       <Notes/>
       <Id>73</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16623</PointerOffset>
@@ -827,55 +826,55 @@ correct order. If sorted correctly, you win.
       <EnglishText>A Strange Reunion</EnglishText>
       <Notes/>
       <Id>74</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16631</PointerOffset>
       <JapaneseText>震える牙</JapaneseText>
-      <EnglishText>Trembling Fangs</EnglishText>
+      <EnglishText>Quivering Fangs</EnglishText>
       <Notes/>
       <Id>75</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16639</PointerOffset>
       <JapaneseText>聖なる戦い</JapaneseText>
-      <EnglishText>The Sacred War</EnglishText>
+      <EnglishText>Sacred War</EnglishText>
       <Notes/>
       <Id>76</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16647</PointerOffset>
       <JapaneseText>ラジルダの旗の下に</JapaneseText>
-      <EnglishText>Under the Razildan Flag</EnglishText>
+      <EnglishText>The Flag of Razilda</EnglishText>
       <Notes/>
       <Id>77</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16655</PointerOffset>
       <JapaneseText>鏡の国の&lt;Tytree&gt;</JapaneseText>
-      <EnglishText>&lt;Tytree&gt; in the Land of Mirrors</EnglishText>
+      <EnglishText>&lt;Tytree&gt;'s Land of Mirrors</EnglishText>
       <Notes/>
       <Id>78</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16663</PointerOffset>
       <JapaneseText>ピピスタの灯</JapaneseText>
-      <EnglishText>Light of Pipista</EnglishText>
+      <EnglishText>Lights of Pipista</EnglishText>
       <Notes/>
       <Id>79</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16671</PointerOffset>
       <JapaneseText>熱砂に舞う翼</JapaneseText>
-      <EnglishText>Wings Dancing in Hot Sand</EnglishText>
+      <EnglishText>Wings Over Hot Sand</EnglishText>
       <Notes/>
       <Id>80</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16679</PointerOffset>
@@ -883,15 +882,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>&lt;Mao&gt;'s Memories</EnglishText>
       <Notes/>
       <Id>81</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16687</PointerOffset>
       <JapaneseText>聖なるもの、忌むべきもの</JapaneseText>
-      <EnglishText>The Sacred, The Abominable</EnglishText>
+      <EnglishText>Is it Sacred or Abhorent?</EnglishText>
       <Notes/>
       <Id>82</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16695</PointerOffset>
@@ -899,7 +898,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Beyond the Wall</EnglishText>
       <Notes/>
       <Id>83</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16703</PointerOffset>
@@ -907,7 +906,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Tower of Nereg</EnglishText>
       <Notes/>
       <Id>84</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16711</PointerOffset>
@@ -915,7 +914,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>The Color of Life</EnglishText>
       <Notes/>
       <Id>85</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16719</PointerOffset>
@@ -923,7 +922,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>&lt;Annie&gt;'s Truth</EnglishText>
       <Notes/>
       <Id>86</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16727</PointerOffset>
@@ -931,7 +930,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>The Day of Belsas</EnglishText>
       <Notes/>
       <Id>87</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16735</PointerOffset>
@@ -939,7 +938,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Sacred Beast Shaorune!</EnglishText>
       <Notes/>
       <Id>88</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16743</PointerOffset>
@@ -947,7 +946,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Dearly Beloved</EnglishText>
       <Notes/>
       <Id>89</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16751</PointerOffset>
@@ -955,23 +954,23 @@ correct order. If sorted correctly, you win.
       <EnglishText>The Day &lt;Hilda&gt; was Born</EnglishText>
       <Notes/>
       <Id>90</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16759</PointerOffset>
       <JapaneseText>幻を求めて</JapaneseText>
-      <EnglishText>In Search of a Vision</EnglishText>
+      <EnglishText>Searching for the Illusion</EnglishText>
       <Notes/>
       <Id>91</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16767</PointerOffset>
       <JapaneseText>&lt;Eugene&gt;の絆</JapaneseText>
-      <EnglishText>&lt;Eugene&gt;'s Bond</EnglishText>
+      <EnglishText>&lt;Eugene&gt;'s Bonds</EnglishText>
       <Notes/>
       <Id>92</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16775</PointerOffset>
@@ -979,15 +978,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>Purification</EnglishText>
       <Notes/>
       <Id>93</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16783</PointerOffset>
       <JapaneseText>同族の争い</JapaneseText>
-      <EnglishText>Family Quarrel</EnglishText>
+      <EnglishText>Racial Infighting</EnglishText>
       <Notes/>
       <Id>94</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16791</PointerOffset>
@@ -995,15 +994,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>Kindness Transcends Race</EnglishText>
       <Notes/>
       <Id>95</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16799</PointerOffset>
       <JapaneseText>バイラスとヒト</JapaneseText>
-      <EnglishText>Birus and People</EnglishText>
+      <EnglishText>Birus and Huma</EnglishText>
       <Notes/>
       <Id>96</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16807</PointerOffset>
@@ -1011,7 +1010,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>&lt;Veigue&gt;'s Tears</EnglishText>
       <Notes/>
       <Id>97</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16815</PointerOffset>
@@ -1019,23 +1018,23 @@ correct order. If sorted correctly, you win.
       <EnglishText>To Sulz</EnglishText>
       <Notes/>
       <Id>98</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16823</PointerOffset>
       <JapaneseText>崩壊</JapaneseText>
-      <EnglishText>Collapse</EnglishText>
+      <EnglishText>The Collapse</EnglishText>
       <Notes/>
       <Id>99</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16831</PointerOffset>
       <JapaneseText>最後の賭け</JapaneseText>
-      <EnglishText>Last Stand</EnglishText>
+      <EnglishText>The Final Gamble</EnglishText>
       <Notes/>
       <Id>100</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16839</PointerOffset>
@@ -1043,15 +1042,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>Mortal Combat</EnglishText>
       <Notes/>
       <Id>101</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16847</PointerOffset>
       <JapaneseText>決着</JapaneseText>
-      <EnglishText>Decision</EnglishText>
+      <EnglishText>The Conclusion</EnglishText>
       <Notes/>
       <Id>102</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16855</PointerOffset>
@@ -1059,15 +1058,15 @@ correct order. If sorted correctly, you win.
       <EnglishText>Mastermind</EnglishText>
       <Notes/>
       <Id>103</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16863</PointerOffset>
       <JapaneseText>心の力</JapaneseText>
-      <EnglishText>Power of the Heart</EnglishText>
+      <EnglishText>Strength of Heart</EnglishText>
       <Notes/>
       <Id>104</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16871</PointerOffset>
@@ -1075,7 +1074,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Hope</EnglishText>
       <Notes/>
       <Id>105</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16879</PointerOffset>
@@ -1083,7 +1082,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>Other</EnglishText>
       <Notes/>
       <Id>106</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16887</PointerOffset>
@@ -1091,7 +1090,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>At the Tokyo Game Show</EnglishText>
       <Notes/>
       <Id>107</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16895</PointerOffset>
@@ -1099,7 +1098,7 @@ correct order. If sorted correctly, you win.
       <EnglishText>In Progress</EnglishText>
       <Notes/>
       <Id>108</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>16903</PointerOffset>
@@ -1183,7 +1182,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>924</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>119</Id>
@@ -1192,7 +1191,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>980</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403844078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403844078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1202,7 +1201,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1001</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403848078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403848078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1212,7 +1211,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1022</PointerOffset>
       <JapaneseText>&lt;unk1A:D800000040384C078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D800000040384C078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1222,7 +1221,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1043</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403850078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403850078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1232,7 +1231,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1065</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403854078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403854078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1242,7 +1241,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1087</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403858078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403858078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1252,7 +1251,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1109</PointerOffset>
       <JapaneseText>&lt;unk1A:D800000040385C078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D800000040385C078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1262,7 +1261,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1131</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403860078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403860078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1272,7 +1271,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1153</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403864078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403864078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1282,7 +1281,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1175</PointerOffset>
       <JapaneseText>&lt;unk1A:D8000000403868078C80&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk1A:D8000000403868078C80&gt;
 </EnglishText>
       <Notes/>
@@ -1292,7 +1291,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1213</PointerOffset>
       <JapaneseText>次へ
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>Next
 </EnglishText>
       <Notes/>
@@ -1302,7 +1301,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1247</PointerOffset>
       <JapaneseText>前へ
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>Previous
 </EnglishText>
       <Notes/>
@@ -1312,7 +1311,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1281</PointerOffset>
       <JapaneseText>エピソード選択へ
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>Episode Selection
 </EnglishText>
       <Notes/>
@@ -1322,7 +1321,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1316</PointerOffset>
       <JapaneseText>エピソード選択へ
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>Episode Selection
 </EnglishText>
       <Notes/>
@@ -1332,7 +1331,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1397</PointerOffset>
       <JapaneseText>&lt;Yellow&gt;「&lt;unk18:48E00780&gt;」&lt;White&gt;
-  &lt;unk18:48B00780&gt;&lt;unk18:48B40780&gt;&lt;unk18:48B80780&gt;&lt;unk18:48BC0780&gt;&lt;unk18:48C00780&gt;&lt;unk18:48C40780&gt;&lt;unk18:48C80780&gt;&lt;unk18:48CC0780&gt;&lt;unk18:48D00780&gt;&lt;unk18:48D40780&gt;&lt;unk18:48D80780&gt;&lt;unk18:48DC0780&gt;</JapaneseText>
+&lt;unk18:48B00780&gt;&lt;unk18:48B40780&gt;&lt;unk18:48B80780&gt;&lt;unk18:48BC0780&gt;&lt;unk18:48C00780&gt;&lt;unk18:48C40780&gt;&lt;unk18:48C80780&gt;&lt;unk18:48CC0780&gt;&lt;unk18:48D00780&gt;&lt;unk18:48D40780&gt;&lt;unk18:48D80780&gt;&lt;unk18:48DC0780&gt;</JapaneseText>
       <EnglishText>&lt;Yellow&gt;[&lt;unk18:48E00780&gt;]&lt;White&gt;
 &lt;unk18:48B00780&gt;&lt;unk18:48B40780&gt;&lt;unk18:48B80780&gt;&lt;unk18:48BC0780&gt;&lt;unk18:48C00780&gt;&lt;unk18:48C40780&gt;&lt;unk18:48C80780&gt;&lt;unk18:48CC0780&gt;&lt;unk18:48D00780&gt;&lt;unk18:48D40780&gt;&lt;unk18:48D80780&gt;&lt;unk18:48DC0780&gt;</EnglishText>
       <Notes/>
@@ -1341,7 +1340,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1428</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>135</Id>
@@ -1350,7 +1349,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1485</PointerOffset>
       <JapaneseText>&lt;unk18:48D00438FC058880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D00438FC058880&gt;
 </EnglishText>
       <Notes/>
@@ -1360,7 +1359,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1506</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043800068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043800068880&gt;
 </EnglishText>
       <Notes/>
@@ -1370,7 +1369,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1527</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043804068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043804068880&gt;
 </EnglishText>
       <Notes/>
@@ -1380,7 +1379,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1548</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043808068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043808068880&gt;
 </EnglishText>
       <Notes/>
@@ -1390,7 +1389,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1570</PointerOffset>
       <JapaneseText>&lt;unk18:48D004380C068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D004380C068880&gt;
 </EnglishText>
       <Notes/>
@@ -1400,7 +1399,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1592</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043810068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043810068880&gt;
 </EnglishText>
       <Notes/>
@@ -1410,7 +1409,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1614</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043814068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043814068880&gt;
 </EnglishText>
       <Notes/>
@@ -1420,7 +1419,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1636</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043818068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043818068880&gt;
 </EnglishText>
       <Notes/>
@@ -1430,7 +1429,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1658</PointerOffset>
       <JapaneseText>&lt;unk18:48D004381C068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D004381C068880&gt;
 </EnglishText>
       <Notes/>
@@ -1440,7 +1439,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1680</PointerOffset>
       <JapaneseText>&lt;unk18:48D0043820068880&gt;
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>&lt;unk18:48D0043820068880&gt;
 </EnglishText>
       <Notes/>
@@ -1449,7 +1448,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1725</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>146</Id>
@@ -1457,7 +1456,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1759</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>147</Id>
@@ -1465,7 +1464,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1797</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>148</Id>
@@ -1473,7 +1472,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1835</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>149</Id>
@@ -1481,7 +1480,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1874</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>150</Id>
@@ -1489,7 +1488,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1913</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>151</Id>
@@ -1497,7 +1496,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>1946</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>152</Id>
@@ -1505,7 +1504,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>25715</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>153</Id>
@@ -1514,7 +1513,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>1969</PointerOffset>
       <JapaneseText>次へ
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>Next
 </EnglishText>
       <Notes/>
@@ -1531,7 +1530,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>2019</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>156</Id>
@@ -1548,7 +1547,7 @@ correct order. If sorted correctly, you win.
     <Entry>
       <PointerOffset>2044</PointerOffset>
       <JapaneseText>前へ
-  </JapaneseText>
+</JapaneseText>
       <EnglishText>Previous
 </EnglishText>
       <Notes/>
@@ -1565,8 +1564,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>297</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48AC0780&gt;
-</JapaneseText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48AC0780&gt;</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48AC0780&gt;</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -1575,8 +1573,7 @@ correct order. If sorted correctly, you win.
     </Entry>
     <Entry>
       <PointerOffset>554</PointerOffset>
-      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48E40780&gt;
-</JapaneseText>
+      <JapaneseText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48E40780&gt;</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;scale:120&gt;&lt;unk18:48E40780&gt;</EnglishText>
       <Notes/>
       <SpeakerId>-1</SpeakerId>
@@ -1717,7 +1714,7 @@ No</EnglishText>
 　Within the Forest: &lt;Annie&gt;　
 　Runaway: &lt;Tytree&gt;　
 　&lt;Hilda&gt;'s True Identity　
-　Geyorkias' Revival　
+　Geyorkias's Revival　
 　Scattering Thoughts　
 　Eephon's Sanctuary　
 　Fenia's Sanctuary
@@ -1748,7 +1745,7 @@ No</EnglishText>
 　Within the Forest: &lt;Annie&gt;　
 　Runaway: &lt;Tytree&gt;　
 　&lt;Hilda&gt;'s True Identity　
-　Geyorkias' Revival　
+　Geyorkias's Revival　
 　Scattering Thoughts　
 　Eephon's Sanctuary　
 　Fenia's Sanctuary
@@ -1828,7 +1825,7 @@ No</EnglishText>
     <Entry>
       <PointerOffset>24294</PointerOffset>
       <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now travelling with you.
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now traveling with you.
 </EnglishText>
       <Notes/>
       <Id>178</Id>

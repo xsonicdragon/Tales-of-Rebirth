@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <PointerOffset>8941,8986</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -516,10 +516,8 @@
     </Entry>
     <Entry>
       <PointerOffset>646</PointerOffset>
-      <JapaneseText>&lt;unk19:D0FF1FC822E00C80&gt;
-</JapaneseText>
-      <EnglishText>&lt;unk19:D0FF1FC822E00C80&gt;
-</EnglishText>
+      <JapaneseText>&lt;unk19:D0FF1FC822E00C80&gt;</JapaneseText>
+      <EnglishText>&lt;unk19:D0FF1FC822E00C80&gt;</EnglishText>
       <Notes/>
       <Id>63</Id>
       <Status>Done</Status>
@@ -719,10 +717,10 @@ should stop by later.</EnglishText>
       <PointerOffset>11142</PointerOffset>
       <JapaneseText>それでねえ……</JapaneseText>
       <EnglishText>I see...</EnglishText>
-      <Notes>Needs seen in game methinks</Notes>
+      <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>17</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>11176</PointerOffset>
@@ -927,10 +925,10 @@ the Queen all dolled up?</EnglishText>
 </JapaneseText>
       <EnglishText>I heard some stupid thieves
 entered the castle.</EnglishText>
-      <Notes>Unsure if this refers to Yottza or the Party. If not party then put he.</Notes>
+      <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>33</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>9986</PointerOffset>
@@ -944,7 +942,7 @@ What a bunch of morons.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>34</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>10008</PointerOffset>
@@ -1169,11 +1167,10 @@ busy yesterday as well.</EnglishText>
       <EnglishText>But if things get out of control
 then the authorities are going
 to get a little heavy-handed...</EnglishText>
-      <Notes>we changed hand to control cause the repititon of hand
-Dragon/Gator</Notes>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>9165</PointerOffset>
@@ -1441,9 +1438,10 @@ No</EnglishText>
       <JapaneseText>あっ♪
 おいしそうなものがあるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's something
-tasty over there! Lemme take a
-teeny tiny bite...</EnglishText>
+      <EnglishText>Ooh! Looks like there's
+something tasty here!
+Lemme take a teeny
+tiny bite...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>
@@ -1489,8 +1487,8 @@ teeny tiny bite...</EnglishText>
       <PointerOffset>8913</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、勝手に食べるのは
 どうかと思ったので遠慮しておきました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Stealing food is rude, so you 
-refrained from doing so.</EnglishText>
+      <EnglishText>&lt;Green&gt;...But stealing food is rude, so
+you refrained from doing so.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>76</Id>
@@ -1624,7 +1622,7 @@ investigation is ongoing.</EnglishText>
       <JapaneseText>お披露目の儀式が決まってすぐの頃、
 バルカの宿代は、のきなみ
 三倍以上になってたらしいよ。</JapaneseText>
-      <EnglishText>Soon after the date the Inaugeration
+      <EnglishText>Soon after the date the Inauguration
 Ceremony was to be held on was
 decided upon, the rates for a room
 in Balka more than tripled.</EnglishText>
@@ -1732,7 +1730,7 @@ to wear was a gift from his sister.</EnglishText>
 ちょっとウソっぽいよね？</JapaneseText>
       <EnglishText>Whenever &lt;Tytree&gt; does something
 bad, Selena will chant a magic
-spell and then it'll tighen around
+spell and then it'll tighten around
 his head. Sounds a bit outlandish,
 don't you think?</EnglishText>
       <Notes>Journey to the West momento</Notes>
@@ -1830,7 +1828,7 @@ information, after all...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>101</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>5731</PointerOffset>
@@ -1852,7 +1850,7 @@ to wear was a gift from his sister.</EnglishText>
 ちょっとウソっぽいよね？</JapaneseText>
       <EnglishText>Whenever &lt;Tytree&gt; does something
 bad, Selena will chant a magic
-spell and then it'll tighen around
+spell and then it'll tighten around
 his head. Sounds a bit outlandish,
 don't you think?</EnglishText>
       <Notes/>
@@ -1880,7 +1878,7 @@ to wear was a gift from his sister.</EnglishText>
 ちょっとウソっぽいよね？</JapaneseText>
       <EnglishText>Whenever &lt;Tytree&gt; does something
 bad, Selena will chant a magic
-spell and then it'll tighen around
+spell and then it'll tighten around
 his head. Sounds a bit outlandish,
 don't you think?</EnglishText>
       <Notes/>
@@ -1979,7 +1977,7 @@ information, after all...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>112</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6095</PointerOffset>
@@ -2351,7 +2349,7 @@ castle, Doctor Barrs, is...</EnglishText>
 </JapaneseText>
       <EnglishText>Kevin Barrs. He has a first
 name, but everyone just
-kept calling him "Doctor".</EnglishText>
+kept calling him "Doctor."</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>141</Id>
@@ -2589,7 +2587,7 @@ forward to finding it yourself.</EnglishText>
 じいさんが、どうにもおいしい、
 スペシャルなピザを持ってるらしい。</JapaneseText>
       <EnglishText>There seems to be an old man
-travelling through the Kurodadaku
+traveling through the Kurodadaku
 Desert who has a very delicious
 Special Pizza.</EnglishText>
       <Notes/>
@@ -2935,12 +2933,12 @@ the other side of them.</EnglishText>
 &lt;Red&gt;観察力&lt;White&gt;が&lt;Yellow&gt;５２&lt;White&gt;はないとなぁ……
 </JapaneseText>
       <EnglishText>But if you want to find them,
-you'll need to have an &lt;Red&gt;Observation
-Power&lt;White&gt; of &lt;Yellow&gt;52&lt;White&gt;...</EnglishText>
-      <Notes>Whatever term Observation Power or whatever is,</Notes>
+you'll need to have an
+&lt;Red&gt;Observation Power&lt;White&gt; of &lt;Yellow&gt;52&lt;White&gt;...</EnglishText>
+      <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>186</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>3374</PointerOffset>
@@ -2960,7 +2958,7 @@ of commotion in the &lt;Blue&gt;Royal Shield&lt;White&gt;.</EnglishText>
 もとからの隊員たちと、
 トーマたちのような新参者とが
 うまくいってないんだ。</JapaneseText>
-      <EnglishText>The orignal members, who were
+      <EnglishText>The original members, who were
 supporters of &lt;Eugene&gt;, aren't getting
 along with new members, who are
 more like Tohma and his ilk.</EnglishText>
@@ -3319,14 +3317,14 @@ In exchange for enlisting into their ranks, they
 told me the whereabouts of my father's
 killer... Now I am headed toward the Minal
 Plains. I am going to set a trap for him so
-that Ican kill him. ...I've never considered
+that I can kill him. ...I've never considered
 killing someone before... What's wrong with
 me...? But...the one in the wrong is him...</EnglishText>
       <Notes>Seems like its too long so I shortened it. Need to double check how far we can go with this
 Gator/Dragon</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>212</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6461</PointerOffset>
@@ -3393,9 +3391,9 @@ I cried too.</EnglishText>
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- I Don't Know -&lt;White&gt;
 A lot of things happened... I fought against
-&lt;Italics&gt;him&lt;/Italics&gt;, I lost, and then they helped me out...
+&lt;Italic&gt;him&lt;/Italic&gt;, I lost, and then they helped me out...
 I hurt Mischa, got reprimanded by Dr. Curia... 
-And... I ended up travelling with him.
+And... I ended up traveling with him.
 I don't know...what he's thinking, how I'm
 feeling, what my father meant when he said
 "Life knows no color"...
@@ -3403,7 +3401,7 @@ I can't make sense of anything anymore...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>215</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6540</PointerOffset>
@@ -3472,10 +3470,10 @@ I'd like to be like that when I grow up.</EnglishText>
 Because of &lt;Tytree&gt;'s huge blunder, we
 all ate poisonous mushrooms and couldn't
 stop laughing...
-Even &lt;Italics&gt;that person&lt;/Italics&gt; knew about the poisonous
+Even &lt;Italic&gt;that person&lt;/Italic&gt; knew about the poisonous
 mushrooms, that I didn't is just unacceptable...
 I need to study more...
-That &lt;Tytree&gt;, I think he's manlier than I
+That &lt;Tytree&gt;, I guess he's manlier than I
 thought he would be.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
@@ -3507,10 +3505,10 @@ but their expressions have suddenly become
 very grim.
 If only I knew what the &lt;Blue&gt;Royal Shield&lt;White&gt;'s
 goal was...</EnglishText>
-      <Notes>idk if itll fit</Notes>
+      <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>219</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6641</PointerOffset>
@@ -3557,10 +3555,10 @@ to one's race... But I don't agree.</EnglishText>
 I met another Half. It was Militsa of the
 Four Stars... I won't forget those dark eyes
 that look as though they've lost all emotion.
-Also, &lt;Hilda&gt; started travelling with us.
+Also, &lt;Hilda&gt; started traveling with us.
 I have no idea what would be good to
 talk about with someone who's a Half...
-But travelling with another girl is comforting.
+But traveling with another girl is comforting.
 I wonder if we'll get along...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
@@ -3695,7 +3693,7 @@ just feels miserable... Men sure are strange...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>226</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6809</PointerOffset>
@@ -3814,7 +3812,7 @@ Sacred Beasts, we parted ways.</EnglishText>
 　　話をしなきゃいけない……
 　　わたしにはまだ何も見えてない。　
 </JapaneseText>
-      <EnglishText>Now that the six of us aren't travelling
+      <EnglishText>Now that the six of us aren't traveling
 together anymore, I have some mixed
 feelings... Also... My quest for revenge
 still isn't over. However, I didn't go
@@ -3824,11 +3822,10 @@ I wanted to think about. When he and
 &lt;Mao&gt; return, I guess I'll have no choice
 but to talk to them... I still haven't gotten
 any closer to the truth.</EnglishText>
-      <Notes>doesnt fit
-Gator/Dragon</Notes>
+      <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>231</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>6933</PointerOffset>
@@ -3873,7 +3870,7 @@ And now, I'm headed together with them to
 the Mesechina Caverns. They had heard from
 Hack that there were some historic ruins in
 the Cavern which were connected to Geyorkias.
-Being in &lt;Italics&gt;that person&lt;/Italics&gt;'s presence is stressful for
+Being in &lt;Italic&gt;that person's&lt;/Italic&gt; presence is stressful for
 me. But &lt;Mao&gt; insisted that I come with, so...</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
@@ -3891,7 +3888,7 @@ me. But &lt;Mao&gt; insisted that I come with, so...</EnglishText>
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- The Incident -&lt;White&gt;
 When we started doing our research in the
-cavern, &lt;Italics&gt;that person&lt;/Italics&gt; started feeling unwell.
+cavern, &lt;Italic&gt;that person&lt;/Italic&gt; started feeling unwell.
 Even when we had fought against each other,
 I had never felt such a strong thirst for blood
 directed toward me... I felt myself unable to
@@ -4008,7 +4005,7 @@ little. I'm acting like such a child...</EnglishText>
 　　こっそり&lt;Veigue&gt;さんの寝顔を見た。　
 　　とてもやさしそうだった。</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- A Night at Keketto Hostel -&lt;White&gt;
-Travelling together with just Veigue is making
+Traveling together with just Veigue is making
 me very nervous. I used to think that he was
 kind of scary, but now I don't understand
 why I'm so anxious. Also, because I couldn't
@@ -4032,7 +4029,7 @@ He looked very endearing.</EnglishText>
 　　なんだかおかしい気がする……</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- Claire -&lt;White&gt;
 Claire showed up unexpectedly.
-I feel much better travelling with
+I feel much better traveling with
 another girl...
 I wonder what Hilda's up to.
 But anyway, something about Claire
@@ -4057,7 +4054,7 @@ seems a little off...</EnglishText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- That Tytree... -&lt;White&gt;
 We finally made it to Petnadjanka. &lt;Tytree&gt;'s as
 boisterous as ever... But when he heard what
-we had to tell him, and he said without
+we had to tell him and he said without
 hesitation that he would come with us, his
 unfailing dependability made him look really
 cool. I guess that &lt;Tytree&gt; knows deep down
@@ -4085,7 +4082,7 @@ important to him. I think he's rather mature...</EnglishText>
 As I looked out at the ocean, I thought about
 &lt;Mao&gt;. Why is &lt;Mao&gt; so desperate to help
 &lt;Italic&gt;that person&lt;/Italic&gt;? He told me before that "He's like
-a father to me". But to me... That's the man
+a father to me." But to me... That's the man
 who robbed me of my father. I'm going to
 stop thinking about it for today, the sound
 of the waves is lulling me to sleep.
@@ -4132,18 +4129,17 @@ Why is he doing this...?</EnglishText>
 　　わたしも同じガジュマ嫌いなのに……　</JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- Razilda -&lt;White&gt;
 Razilda was a terrible town.
-The Gajuma seem to really hate Huma there
+The Gajuma there seem to really hate Huma
 and I don't like it...
 And even though he's a Huma, that Iger is
 awful too. His son Igor is a nice man,
 however. I don't understand why I disliked
 Iger so much...
 Considering that I hate Gajuma as well...</EnglishText>
-      <Notes>Iger use to be Iga. Dont think Iga has been mentioned before so assuming its a typo
-Gator/Dragon</Notes>
+      <Notes/>
       <SpeakerId>40</SpeakerId>
       <Id>244</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7367</PointerOffset>
@@ -4213,10 +4209,10 @@ I'll try cheering him up. If his memories are
 painful, unless he wants to tell me about them,
 I won't ask. But I'm curious as to what
 his real name is...</EnglishText>
-      <Notes>not fittie </Notes>
+      <Notes/>
       <SpeakerId>43</SpeakerId>
       <Id>247</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7446</PointerOffset>
@@ -4257,7 +4253,7 @@ back at me too.</EnglishText>
 　　とてもカッコイイと思った。　
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- The Dark Trio and Saleh -&lt;White&gt;
-From Kyogen we travelled all the way to the
+From Kyogen we traveled all the way to the
 Tower of Nereg. But at the top was a trap
 set by Saleh. That Saleh would be able to
 manipulate the Dark Trio like that... How
@@ -4267,10 +4263,10 @@ their senses. While physically they're kind of
 wimpy, the three of them have their hearts
 in the right place. They're the type of people
 who never give up. I think they’re pretty cool.</EnglishText>
-      <Notes>the fit aint right</Notes>
+      <Notes/>
       <SpeakerId>45</SpeakerId>
       <Id>249</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>7490</PointerOffset>
@@ -4490,7 +4486,7 @@ going to happen...</EnglishText>
 　　とても心配していた……
 </JapaneseText>
       <EnglishText>&lt;speed:0&gt;&lt;Cyan&gt;- A Cause for Concern... -&lt;White&gt;
-As we've been travelling around the world
+As we've been traveling around the world
 trying to quell all of the conflicts, there's 
 something that I've found concerning...
 &lt;Veigue&gt; can barely even bring himself to look
@@ -4792,7 +4788,7 @@ Stop by some other time!</EnglishText>
       <PointerOffset>2690</PointerOffset>
       <JapaneseText>はいよ、例の「重要機密」だね。</JapaneseText>
       <EnglishText>Okay, here's the "Highly-Confidential
-Information".</EnglishText>
+Information."</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>278</Id>
@@ -4950,7 +4946,7 @@ helps you kill time, huh?</EnglishText>
 しかも、タダなんだよ!?</JapaneseText>
       <EnglishText>Why are you calling my diary the
 "Dilly Dallying Dossier" and why are
-you showing it to people for free?!”</EnglishText>
+you showing it to people for free?!</EnglishText>
       <Notes/>
       <SpeakerId>58</SpeakerId>
       <Id>288</Id>
@@ -5182,7 +5178,7 @@ Mhm... Perhaps...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>306</Id>
-      <Status>Problematic</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>582</PointerOffset>

@@ -52,7 +52,7 @@
     </Entry>
     <Entry>
       <PointerOffset>3201,2337</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -242,10 +242,10 @@ woman in the world...</EnglishText>
 想像してるんだけど、
 想像だにできないんだ……
 </JapaneseText>
-      <EnglishText>I've been trying to picture what
-she might look like because I
-haven't seen her yet, but I doubt
-my imagination can do her justice...</EnglishText>
+      <EnglishText>I've been trying to picture what she
+might look like because I haven't seen
+her yet, but I doubt my imagination
+can do her justice...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -270,8 +270,8 @@ to the inauguration ceremony.</EnglishText>
       <JapaneseText>私は当日の衣装が
 特に楽しみなんだ。</JapaneseText>
       <EnglishText>I'm especially looking forward
-to the outfit I'm going to
-wear for it.</EnglishText>
+to the outfit I'm going to wear
+for it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -600,7 +600,7 @@ Well, perhaps, but...</EnglishText>
 舟盛りにしたんだけど、
 ちょっと味見してくかい？</JapaneseText>
       <EnglishText>I caught some high quality fish
-and made some Funenori. Would
+and made a Funamori. Would
 you like to try some?</EnglishText>
       <Notes>idk about "boat wrap sushi."</Notes>
       <SpeakerId>8</SpeakerId>
@@ -642,8 +642,8 @@ No</EnglishText>
       <PointerOffset>2167</PointerOffset>
       <JapaneseText>おいしい!!
 おいしいヨ!!</JapaneseText>
-      <EnglishText>This is so good!
-It's so dang tasty!</EnglishText>
+      <EnglishText>This is so good! It's
+so dang tasty!</EnglishText>
       <Notes>Lauren need to check</Notes>
       <SpeakerId>11</SpeakerId>
       <Id>40</Id>

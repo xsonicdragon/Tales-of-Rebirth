@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <PointerOffset>449,1064,1127,1397,1433,1469,1505</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>8</Id>
@@ -311,8 +311,8 @@ back to being blue soon...</EnglishText>
       <PointerOffset>2200</PointerOffset>
       <JapaneseText>私の弟は空を見るのが
 好きみたいだけど……</JapaneseText>
-      <EnglishText>My little brother likes looking
-at the blue sky...</EnglishText>
+      <EnglishText>My little brother likes
+looking at the sky...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>19</Id>
@@ -322,7 +322,7 @@ at the blue sky...</EnglishText>
       <PointerOffset>2222</PointerOffset>
       <JapaneseText>私は海の方が好き♪
 </JapaneseText>
-      <EnglishText>But I prefer the ocean!♪</EnglishText>
+      <EnglishText>But I prefer the ocean♪</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>20</Id>
@@ -383,7 +383,7 @@ the commandments...</EnglishText>
       <PointerOffset>362</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
@@ -489,9 +489,10 @@ still inside.</EnglishText>
       <JapaneseText>あっ♪
 おいしそうなものがあるヨ！
 ちょっと食べちゃおっと。</JapaneseText>
-      <EnglishText>Ooh! Looks like there's something
-tasty over there! Lemme take a
-teeny tiny bite...</EnglishText>
+      <EnglishText>Ooh! Looks like there's
+something tasty here!
+Lemme take a teeny
+tiny bite...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
@@ -537,8 +538,8 @@ teeny tiny bite...</EnglishText>
       <PointerOffset>1369</PointerOffset>
       <JapaneseText>&lt;Green&gt;……しかし、勝手に食べるのは
 どうかと思ったので遠慮しておきました。</JapaneseText>
-      <EnglishText>&lt;Green&gt;Stealing food is rude, so you 
-refrained from doing so.</EnglishText>
+      <EnglishText>&lt;Green&gt;...But stealing food is rude, so
+you refrained from doing so.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>38</Id>

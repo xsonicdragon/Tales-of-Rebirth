@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <PointerOffset>2237,2209,2181,2153,2125,2097,2069,2041,515</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>13</Id>
@@ -329,7 +329,7 @@ for a traitor?</EnglishText>
 これが国のためになるというのか!?</JapaneseText>
       <EnglishText>What purpose does this serve,
 Walto? How is this supposed
-to benefit our kingdom?!</EnglishText>
+to benefit our Kingdom?!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
@@ -474,11 +474,11 @@ Would you mind leaving us be?</EnglishText>
 我らを倒して彼女たちを助けますか？
 もっとも、ここで戦えば彼女たちは無事では
 済みますまい……動けないのですからね。</JapaneseText>
-      <EnglishText>So then, you think that by defeating
-us that these girls would be saved?
-There is no certainty that they would
-walk away from a battle here
-unharmed... They are immobile, after all.</EnglishText>
+      <EnglishText>So then, you think that by defeating us
+that these girls would be saved? There
+is no certainty that they would walk
+away from a battle here unharmed...
+They are immobile, after all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
@@ -970,7 +970,7 @@ Commander.</EnglishText>
 語る事など……</JapaneseText>
       <EnglishText>We may have once fought together
 as brothers in arms, but you no
-longer have any ties to the Kingdom.
+longer have any ties to The Kingdom.
 We have nothing to discuss.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
@@ -1155,7 +1155,7 @@ there as well?</EnglishText>
       <VoiceId>1c0000f2</VoiceId>
       <JapaneseText>でも、どうしてあなたが
 その名前を？</JapaneseText>
-      <EnglishText>Yes, but, how would you...?</EnglishText>
+      <EnglishText>Yes, but, how do you...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>82</Id>
@@ -1314,8 +1314,8 @@ next full moon is on the
       <JapaneseText>&lt;Blue&gt;ゴルドバの日&lt;White&gt;には
 お披露目の儀式があるんだヨ！</JapaneseText>
       <EnglishText>The inauguration ceremony
-will be held on the
-&lt;Blue&gt;Day of Goldba&lt;White&gt;!</EnglishText>
+will be held on the &lt;Blue&gt;Day of
+Goldba&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>95</Id>
@@ -1888,7 +1888,7 @@ the commandments...</EnglishText>
       <PointerOffset>428</PointerOffset>
       <JapaneseText>そっか、戒律が
 あったんだったな……</JapaneseText>
-      <EnglishText>Oh right, those commmandments...</EnglishText>
+      <EnglishText>Oh right, those commandments...</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>143</Id>
@@ -2101,7 +2101,7 @@ down upon me..."</EnglishText>
 </JapaneseText>
       <EnglishText>I am...a poet. I will keep singing,
 so I do not lose out to that
-songlover named &lt;Mao&gt;...</EnglishText>
+song lover named &lt;Mao&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>160</Id>

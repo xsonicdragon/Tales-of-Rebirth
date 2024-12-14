@@ -261,8 +261,8 @@ from the &lt;Blue&gt;Four Stars&lt;White&gt;!?</EnglishText>
       <JapaneseText>ぐっ……こいつらの力……
 普通じゃないぞ……!?</JapaneseText>
       <EnglishText>Ugh... These guys are
-abnormally strong...!?</EnglishText>
-      <Notes/>
+abnormally strong...!</EnglishText>
+      <Notes>it doesn't really make much sense to have a question mark here as the ellpsis already conveys that he's taken aback. so I removed it. -dragon.</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <Status>Proofreading</Status>
@@ -276,8 +276,7 @@ abnormally strong...!?</EnglishText>
       <EnglishText>That's due to Walto's Force. It
 unleashes their latent potential,
 allowing them to do things that
-they normally wouldn't be able
-to!</EnglishText>
+they normally couldn't.</EnglishText>
       <Notes/>
       <SpeakerId>0</SpeakerId>
       <Id>15</Id>
@@ -1407,10 +1406,8 @@ for Petnadjanka.</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>10462</PointerOffset>
-      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。
-</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.
-</EnglishText>
+      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:340480&gt;が仲間になりました。</JapaneseText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:340480&gt; joined the party.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>111</Id>
@@ -1418,10 +1415,8 @@ for Petnadjanka.</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>10540</PointerOffset>
-      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。
-</JapaneseText>
-      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now travelling with you.
-</EnglishText>
+      <JapaneseText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;font:80000002&gt;&lt;unk19:341080&gt;が同行します。</JapaneseText>
+      <EnglishText>&lt;Green&gt;&lt;scale:140&gt;&lt;speed:0&gt;&lt;unk19:341080&gt; is now traveling with you.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>112</Id>
@@ -1493,7 +1488,7 @@ Cancel</EnglishText>
 ないんだよなー。</JapaneseText>
       <EnglishText>For some reason, I can't
 remember what I was
-doing a short while ago?</EnglishText>
+doing just a moment ago.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>118</Id>
@@ -1503,8 +1498,8 @@ doing a short while ago?</EnglishText>
       <PointerOffset>1583</PointerOffset>
       <JapaneseText>俺……何してたんだろ……？
 こわ……</JapaneseText>
-      <EnglishText>What even was it that
-I was doing? Eep...</EnglishText>
+      <EnglishText>What did I even
+do...? Eep...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>119</Id>
