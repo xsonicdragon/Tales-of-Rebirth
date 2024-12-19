@@ -852,8 +852,8 @@ I can't join you guys.</EnglishText>
       <JapaneseText>オレは今、この村を……
 この家を離れるわけにはいかない。</JapaneseText>
       <EnglishText>This village... The Bennetts...
-There's just no way I can
-leave them right now.</EnglishText>
+There's just no way I can leave
+them right now.</EnglishText>
       <Notes>The spelling of the Bennetts seems to be correct.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>55</Id>
@@ -2682,7 +2682,7 @@ It's making everyone anxious.</EnglishText>
     <Entry>
       <PointerOffset>1615</PointerOffset>
       <JapaneseText>本当に大丈夫なんでしょうか？</JapaneseText>
-      <EnglishText>Is everything really alright?</EnglishText>
+      <EnglishText>Is everything really all right?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>210</Id>

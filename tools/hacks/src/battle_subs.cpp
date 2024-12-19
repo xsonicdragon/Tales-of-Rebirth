@@ -76,6 +76,24 @@ extern "C"
 		}
 		return strcmp(name1, name2);
 	}
+	// title screen
+	void write_title_strings(fontenv_struct* fnt, const char* original_string)
+	{
+		// first draw the existing string we replaced
+		// can edit fontenv fntenv here before the draw if needed
+		draw_string(fnt, original_string);
+		fnt->x = 0x8130;	// idk just put a new coord
+		fnt->y = 0x8520;
+		draw_string(fnt, "Life Bottle Productions ver 0.9");
+		fnt->x = 0x8130;	// idk just put a new coord
+		fnt->y = 0x85D8;
+		#ifndef PATCH_SERIAL
+		draw_string(fnt, "     Patch serial: 0000000000");
+		#else
+		#define EXP_Q(str) _STR(str)
+		draw_string(fnt, "     Patch serial: " EXP_Q(PATCH_SERIAL));
+		#endif
+	}
 
 	////////////////////////
 	// SKIT CENTERING CODE
@@ -350,7 +368,7 @@ extern "C"
 	}
 
 	// initialize text container with voice data
-	Text_Container* init_container(btl_chr_struct* btl_chr, const Voice_Line* line, u32 voice_id, int num_lines)
+	Text_Container* init_container(btl_chr_struct* btl_chr, const Voice_Line* line, u32 voice_id, int num_lines, int start_frame)
 	{
 		// loop through containers
 		for (int i = 0; i < NUM_TEXT_CONTAINERS; i++)
@@ -363,6 +381,7 @@ extern "C"
 				text_container[i].btl_chr = btl_chr;
 				text_container[i].Line = line;
 				text_container[i].Battle_Voice_Id = voice_id;
+				text_container[i].Current_Frame = start_frame;
 				text_container[i].x = DEBUG_X;
 				// change y depending on line type
 				int y = LINE_Y_BEHIND_UI;
@@ -451,7 +470,7 @@ extern "C"
 						if (voice_queue[i].table->Lines[j]->Start_Frame == voice_queue[i].current_frame)
 						{
 							// if so, initialize a text container with that line
-							init_container(voice_queue[i].btl_chr, voice_queue[i].table->Lines[j], voice_queue[i].table->voice_id, voice_queue[i].table->num_lines);
+							init_container(voice_queue[i].btl_chr, voice_queue[i].table->Lines[j], voice_queue[i].table->voice_id, voice_queue[i].table->num_lines, voice_queue[i].current_frame);
 						}
 					}
 					if (!battle_pause)
